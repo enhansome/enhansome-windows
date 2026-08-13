@@ -1,0 +1,2418 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Check out my projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hoppscotch",
+          "description": "Tests APIs with real-time collaboration features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T13:13:45Z",
+            "owner": "hoppscotch",
+            "repo": "hoppscotch",
+            "stars": 80022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bruno",
+          "description": "Tests APIs with Git version control integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T11:45:18Z",
+            "owner": "usebruno",
+            "repo": "bruno",
+            "stars": 46329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yaak",
+          "description": "Modern lightweight tauri based API testing application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:52:45Z",
+            "owner": "mountain-loop",
+            "repo": "yaak",
+            "stars": 18986
+          }
+        }
+      ],
+      "title": "API Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wox",
+          "description": "Launches apps with web search integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T10:52:30Z",
+            "owner": "Wox-launcher",
+            "repo": "Wox",
+            "stars": 27219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flow Launcher",
+          "description": "Searches files and launches apps with plugin extensibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T01:12:12Z",
+            "owner": "Flow-Launcher",
+            "repo": "Flow.Launcher",
+            "stars": 15359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ueli",
+          "description": "Powerful keystroke launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T06:38:59Z",
+            "owner": "oliverschwendener",
+            "repo": "ueli",
+            "stars": 4578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kunkun",
+          "description": "Raycast/Alfred-like launcher with sandboxed extensions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-10T14:50:36Z",
+            "owner": "kunkunsh",
+            "repo": "kunkun",
+            "stars": 1299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Velocmd",
+          "description": "A lightning fast, native system launcher. Search files, run commands, and navigate your system seamlessly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T16:53:15Z",
+            "owner": "YashvardhanG",
+            "repo": "Velocmd",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Application Launchers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Audacity",
+          "description": "Records and edits audio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T07:42:20Z",
+            "owner": "audacity",
+            "repo": "audacity",
+            "stars": 17561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mixxx",
+          "description": "Mixes music for DJs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T05:47:14Z",
+            "owner": "mixxxdj",
+            "repo": "mixxx",
+            "stars": 7029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MusicBrainz Picard",
+          "description": "Identifies and tags music files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:59:44Z",
+            "owner": "metabrainz",
+            "repo": "picard",
+            "stars": 5089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "musikcube",
+          "description": "Plays music through terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-23T02:00:57Z",
+            "owner": "clangen",
+            "repo": "musikcube",
+            "stars": 4818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dopamine",
+          "description": "Plays and organizes music.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T15:57:16Z",
+            "owner": "digimezzo",
+            "repo": "dopamine",
+            "stars": 2311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlexASIO",
+          "description": "A universal ASIO driver that delivers low-latency, high-quality sound.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-27T18:48:58Z",
+            "owner": "dechamps",
+            "repo": "FlexASIO",
+            "stars": 2009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nora",
+          "description": "Plays and manages music.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T17:52:50Z",
+            "owner": "Sandakan",
+            "repo": "Nora",
+            "stars": 1189
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Restic",
+          "description": "Backs up data to various storage types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T20:25:16Z",
+            "owner": "restic",
+            "repo": "restic",
+            "stars": 35490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duplicati",
+          "description": "Stores encrypted backups online.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T08:59:02Z",
+            "owner": "duplicati",
+            "repo": "duplicati",
+            "stars": 14882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kopia",
+          "description": "Creates incremental backups with client-side encryption and cloud support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T06:10:45Z",
+            "owner": "kopia",
+            "repo": "kopia",
+            "stars": 13849
+          }
+        }
+      ],
+      "title": "Backup"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zen Browser",
+          "description": "Firefox-based with community modifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T22:29:26Z",
+            "owner": "zen-browser",
+            "repo": "desktop",
+            "stars": 43905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ungoogled Chromium",
+          "description": "Removes Google integration and tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:38:26Z",
+            "owner": "ungoogled-software",
+            "repo": "ungoogled-chromium",
+            "stars": 27393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brave",
+          "description": "Privacy focused browser with built-in adblock.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T04:03:29Z",
+            "owner": "brave",
+            "repo": "brave-browser",
+            "stars": 23334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helium",
+          "description": "Browser based on Ungoogled Chromium with privacy, split-view, bangs and built-in ad-blocker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T23:43:24Z",
+            "owner": "imputnet",
+            "repo": "helium",
+            "stars": 19347
+          }
+        }
+      ],
+      "title": "Browsers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T22:58:34Z",
+            "owner": "yt-dlp",
+            "repo": "yt-dlp",
+            "stars": 184202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerShell 7",
+          "description": "PowerShell 7 is free and opensource, cross platform (Win, Linux) shell by Microsoft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T18:52:09Z",
+            "owner": "PowerShell",
+            "repo": "PowerShell",
+            "stars": 54823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "winget",
+          "description": "Official Windows package manager from Microsoft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:45:12Z",
+            "owner": "microsoft",
+            "repo": "winget-cli",
+            "stars": 26307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scoop",
+          "description": "Command-line installer for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-06-13T16:17:42Z",
+            "owner": "ScoopInstaller",
+            "repo": "Scoop",
+            "stars": 24540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fastfetch",
+          "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T10:43:44Z",
+            "owner": "fastfetch-cli",
+            "repo": "fastfetch",
+            "stars": 24184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gallery-dl",
+          "description": "Command-line program to download image galleries and collections from several image hosting sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T09:53:37Z",
+            "owner": "mikf",
+            "repo": "gallery-dl",
+            "stars": 19196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gsudo",
+          "description": "Sudo equivalent for Windows, allows you to run a command with elevated permissions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T04:39:51Z",
+            "owner": "gerardog",
+            "repo": "gsudo",
+            "stars": 6021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "btop4win",
+          "description": "Windows port of the famous btop resource monitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-12T16:45:50Z",
+            "owner": "aristocratos",
+            "repo": "btop4win",
+            "stars": 1948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "winfetch",
+          "description": "Command-line system information utility written in PowerShell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-05-09T04:53:04Z",
+            "owner": "lptstr",
+            "repo": "winfetch",
+            "stars": 1787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cinema",
+          "description": "Command-line multiviewer for local and online media with custom layouts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-02T15:46:02Z",
+            "owner": "marm00",
+            "repo": "cinema",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitty",
+          "description": "Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-04-19T10:45:50Z",
+            "owner": "Omibranch",
+            "repo": "gitty",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Command Line Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vencord",
+          "description": "The cutest Discord client mod with lots of plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T01:49:07Z",
+            "owner": "Vendicated",
+            "repo": "Vencord",
+            "stars": 13865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Element",
+          "description": "Client for the Matrix protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:01:36Z",
+            "owner": "element-hq",
+            "repo": "element-web",
+            "stars": 13371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unigram",
+          "description": "Telegram client optimized for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T15:07:40Z",
+            "owner": "UnigramDev",
+            "repo": "Unigram",
+            "stars": 5335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Franz",
+          "description": "Combines multiple chat services into one app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-12T13:36:11Z",
+            "owner": "meetfranz",
+            "repo": "franz",
+            "stars": 4705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LegCord",
+          "description": "Discord client with Vencord and shelter integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T14:39:56Z",
+            "owner": "Legcord",
+            "repo": "Legcord",
+            "stars": 3404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Equicord",
+          "description": "Fork of Vencord with additional plugins and features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:06:57Z",
+            "owner": "Equicord",
+            "repo": "Equicord",
+            "stars": 1645
+          }
+        }
+      ],
+      "title": "Communication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NanaZip",
+          "description": "Windows-optimized 7-Zip variant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T16:19:29Z",
+            "owner": "M2Team",
+            "repo": "NanaZip",
+            "stars": 15070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PeaZip",
+          "description": "Archive manager with compression format support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2026-07-27T14:51:24Z",
+            "owner": "peazip",
+            "repo": "PeaZip",
+            "stars": 7741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "7-Zip",
+          "description": "File archiver with multiple format support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-26T06:02:59Z",
+            "owner": "ip7z",
+            "repo": "7zip",
+            "stars": 3707
+          }
+        }
+      ],
+      "title": "Compression"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TranslucentTB",
+          "description": "Makes taskbar transparent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-25T07:30:33Z",
+            "owner": "TranslucentTB",
+            "repo": "TranslucentTB",
+            "stars": 20085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarTrumpet",
+          "description": "Controls volume per application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T00:24:44Z",
+            "owner": "File-New-Project",
+            "repo": "EarTrumpet",
+            "stars": 11282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenShell",
+          "description": "Restores traditional Start Menu interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T17:42:41Z",
+            "owner": "Open-Shell",
+            "repo": "Open-Shell-Menu",
+            "stars": 9238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WindHawk",
+          "description": "A list of useful software Tweaks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T19:36:31Z",
+            "owner": "ramensoftware",
+            "repo": "windhawk",
+            "stars": 8679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rainmeter",
+          "description": "Displays customizable skins and widgets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:41:54Z",
+            "owner": "rainmeter",
+            "repo": "rainmeter",
+            "stars": 5924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YASB",
+          "description": "Creates customizable status bars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:50:20Z",
+            "owner": "amnweb",
+            "repo": "yasb",
+            "stars": 5323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentFlyout",
+          "description": "Displays media controls, lock key status and taskbar widgets in native-looking Fluent 2 flyouts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T18:07:50Z",
+            "owner": "unchihugo",
+            "repo": "FluentFlyout",
+            "stars": 3730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sucrose Wallpaper Engine",
+          "description": "A live wallpaper app, a free and opensource alternative to Wallpaper Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:44:42Z",
+            "owner": "Taiizor",
+            "repo": "Sucrose",
+            "stars": 1466
+          }
+        }
+      ],
+      "title": "Customization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DBeaver",
+          "description": "Free and open-source database management tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T12:01:50Z",
+            "owner": "dbeaver",
+            "repo": "dbeaver",
+            "stars": 51441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Another Redis Desktop Manager",
+          "description": "Fast and stable Redis GUI client with cluster, sentinel, SSH support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T07:09:03Z",
+            "owner": "qishibo",
+            "repo": "AnotherRedisDesktopManager",
+            "stars": 34629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beekeeper Studio",
+          "description": "A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:08:28Z",
+            "owner": "beekeeper-studio",
+            "repo": "beekeeper-studio",
+            "stars": 23383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgAdmin",
+          "description": "Feature-rich, open-source administration and development platform for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:25:32Z",
+            "owner": "pgadmin-org",
+            "repo": "pgadmin4",
+            "stars": 3744
+          }
+        }
+      ],
+      "title": "Databases Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mailspring",
+          "description": "Modern email client built on web technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T20:38:36Z",
+            "owner": "Foundry376",
+            "repo": "Mailspring",
+            "stars": 17740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wino Mail",
+          "description": "Modern mail client with integrated calendar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T08:25:35Z",
+            "owner": "bkaankose",
+            "repo": "Wino-Mail",
+            "stars": 1555
+          }
+        }
+      ],
+      "title": "Email"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Files",
+          "description": "A modern file manager that helps users organize their files and folders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T04:25:22Z",
+            "owner": "files-community",
+            "repo": "Files",
+            "stars": 44609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spacedrive",
+          "description": "Cross-platform file manager with cloud integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-29T00:31:28Z",
+            "owner": "spacedriveapp",
+            "repo": "spacedrive",
+            "stars": 38770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File Converter",
+          "description": "A simple tool to convert and compress files using the context menu in windows explorer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-27T13:56:40Z",
+            "owner": "Tichau",
+            "repo": "FileConverter",
+            "stars": 15000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fselect",
+          "description": "SQL-like file search utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T07:31:32Z",
+            "owner": "jhspetersson",
+            "repo": "fselect",
+            "stars": 4456
+          }
+        }
+      ],
+      "title": "File Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Godot Engine",
+          "description": "Free and open source game engine with beginner-friendly workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T08:20:37Z",
+            "owner": "godotengine",
+            "repo": "godot",
+            "stars": 115652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Games",
+          "description": "List of games hosted on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-13T20:06:46Z",
+            "owner": "leereilly",
+            "repo": "games",
+            "stars": 24932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hydra Launcher",
+          "description": "A game launcher that allows you to download, play, track your stats and manage your games all in one place.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:01:45Z",
+            "owner": "hydralauncher",
+            "repo": "hydra",
+            "stars": 16610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playnite",
+          "description": "Playnite is an open-source video game library manager that unifies game collections from various platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T13:42:53Z",
+            "owner": "JosefNemec",
+            "repo": "Playnite",
+            "stars": 13745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroic Games Launcher",
+          "description": "A game launcher with support for GOG, Epic Games and Amazon games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:59:09Z",
+            "owner": "Heroic-Games-Launcher",
+            "repo": "HeroicGamesLauncher",
+            "stars": 11993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Itch.io",
+          "description": "Platform for discovering and distributing indie games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T16:13:58Z",
+            "owner": "itchio",
+            "repo": "itch",
+            "stars": 2797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gale",
+          "description": "Modern and lightweight mod manager for Thunderstore.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:08:07Z",
+            "owner": "Kesomannen",
+            "repo": "gale",
+            "stars": 718
+          }
+        }
+      ],
+      "title": "Game Stores"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Aseprite",
+          "description": "Professional pixel art and animation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T19:28:50Z",
+            "owner": "aseprite",
+            "repo": "aseprite",
+            "stars": 38697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ente Photos",
+          "description": "Store and share your photos with absolute privacy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T12:00:05Z",
+            "owner": "ente",
+            "repo": "ente",
+            "stars": 28305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oculante",
+          "description": "Lightweight, fast and simple image viewer written in rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T20:40:12Z",
+            "owner": "woelper",
+            "repo": "oculante",
+            "stars": 1650
+          }
+        }
+      ],
+      "title": "Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code",
+          "description": "Customizes development with extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T11:46:06Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 188654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zed",
+          "description": "A high-performance, multiplayer code editor from the creators of Atom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T11:33:27Z",
+            "owner": "zed-industries",
+            "repo": "zed",
+            "stars": 88557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSCodium",
+          "description": "A VS Code fork without all the Microsoft bloat and telemetry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T12:43:33Z",
+            "owner": "VSCodium",
+            "repo": "vscodium",
+            "stars": 32807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spyder",
+          "description": "Open-source Python IDE designed for scientific development and data analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T23:52:05Z",
+            "owner": "spyder-ide",
+            "repo": "spyder",
+            "stars": 9288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arduino IDE",
+          "description": "An IDE for developing python code for the Arduino.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T03:07:56Z",
+            "owner": "arduino",
+            "repo": "arduino-ide",
+            "stars": 3208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PearAI",
+          "description": "Open source AI code editor with curated integrations of multiple AI tools.",
+          "children": []
+        }
+      ],
+      "title": "IDEs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ollama",
+          "description": "Get up and running with large language models locally via command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T23:45:56Z",
+            "owner": "ollama",
+            "repo": "ollama",
+            "stars": 178428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jan",
+          "description": "Offline private AI assistant with CPU/GPU support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T11:54:41Z",
+            "owner": "janhq",
+            "repo": "jan",
+            "stars": 43993
+          }
+        }
+      ],
+      "title": "Local AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sniffnet",
+          "description": "Network monitoring tool to help you easily keep track of your Internet traffic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:16:53Z",
+            "owner": "GyulyVGC",
+            "repo": "sniffnet",
+            "stars": 40522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nmap",
+          "description": "A free, open-source network scanner used for discovering hosts, services, and vulnerabilities on computer networks through advanced port scanning and OS detection techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:30:06Z",
+            "owner": "nmap",
+            "repo": "nmap",
+            "stars": 13345
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Joplin",
+          "description": "Open-source note-taking app with Markdown support, cross-device sync and encryption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:20:59Z",
+            "owner": "laurent22",
+            "repo": "joplin",
+            "stars": 55930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logseq",
+          "description": "Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-13T08:33:16Z",
+            "owner": "logseq",
+            "repo": "logseq",
+            "stars": 44428
+          }
+        }
+      ],
+      "title": "Note-taking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sumatra PDF",
+          "description": "Opens documents instantly with minimal memory usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T11:56:22Z",
+            "owner": "sumatrapdfreader",
+            "repo": "sumatrapdf",
+            "stars": 17320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnlyOffice",
+          "description": "Enables document co-editing with version control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-21T12:51:44Z",
+            "owner": "ONLYOFFICE",
+            "repo": "DesktopEditors",
+            "stars": 5236
+          }
+        }
+      ],
+      "title": "Office Suites"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vaultwarden",
+          "description": "Lightweight Bitwarden server implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T12:09:44Z",
+            "owner": "dani-garcia",
+            "repo": "vaultwarden",
+            "stars": 65356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeePassXC",
+          "description": "= Local open-source KeePass client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:03:37Z",
+            "owner": "keepassxreboot",
+            "repo": "keepassxc",
+            "stars": 28366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Padloc",
+          "description": "End-to-end encrypted password manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-29T04:40:17Z",
+            "owner": "padloc",
+            "repo": "padloc",
+            "stars": 2922
+          }
+        }
+      ],
+      "title": "Password Managers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Super Productivity",
+          "description": "Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T11:28:02Z",
+            "owner": "super-productivity",
+            "repo": "super-productivity",
+            "stars": 21316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keywiz",
+          "description": "Real-time keystroke visualization tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-01T13:56:36Z",
+            "owner": "mulaRahul",
+            "repo": "keyviz",
+            "stars": 9573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STranslate",
+          "description": "A ready-to-go translation ocr tool developed with WPF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T06:14:11Z",
+            "owner": "STranslate",
+            "repo": "STranslate",
+            "stars": 7772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saga Reader",
+          "description": "A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-11T23:53:03Z",
+            "owner": "sopaco",
+            "repo": "saga-reader",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kaas",
+          "description": "Privacy-focused LLM client for multiple AI services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-03T06:46:45Z",
+            "owner": "0xfrankz",
+            "repo": "Kaas",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeWhisper",
+          "description": "Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T08:46:01Z",
+            "owner": "TypeWhisper",
+            "repo": "typewhisper-win",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToDoList",
+          "description": "Feature-rich task management tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2026-08-08T08:21:55Z",
+            "owner": "abstractspoon",
+            "repo": "ToDoList_Resources",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EyeRest",
+          "description": "A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule: every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-16T08:05:14Z",
+            "owner": "necdetsanli",
+            "repo": "EyeRest",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kyrios",
+          "description": "Minimal Windows To-Do-List app right in your Taskbar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-19T18:26:00Z",
+            "owner": "rknastenka",
+            "repo": "Kyrios",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timelens",
+          "description": "Cross-platform time tracking software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-08T16:08:34Z",
+            "owner": "0PandaDEV",
+            "repo": "Timelens",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Productivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RustDesk",
+          "description": "Open-source remote desktop software with a focus on simplicity and security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:36:16Z",
+            "owner": "rustdesk",
+            "repo": "rustdesk",
+            "stars": 120300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunshine",
+          "description": "Open-source self-hosted game streaming server for use with Moonlight.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T05:49:42Z",
+            "owner": "LizardByte",
+            "repo": "Sunshine",
+            "stars": 40137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moonlight",
+          "description": "Open-source GameStream client for Windows, Mac, Linux, and Steam Link.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T05:43:03Z",
+            "owner": "moonlight-stream",
+            "repo": "moonlight-qt",
+            "stars": 18268
+          }
+        }
+      ],
+      "title": "Remote Access"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OBS Studio",
+          "description": "Free and open source software for video recording and live streaming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T00:39:00Z",
+            "owner": "obsproject",
+            "repo": "obs-studio",
+            "stars": 74935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Greenshot",
+          "description": "Screenshot capture and editing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-06T21:02:09Z",
+            "owner": "greenshot",
+            "repo": "greenshot",
+            "stars": 5066
+          }
+        }
+      ],
+      "title": "Screen Capture"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ShareX",
+          "description": "Powerful, open-source screenshot and screen recording tool with advanced editing options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T21:09:07Z",
+            "owner": "ShareX",
+            "repo": "ShareX",
+            "stars": 39114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flameshot",
+          "description": "Customizable screenshot tool with an easy-to-use interface and built-in editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:43:19Z",
+            "owner": "flameshot-org",
+            "repo": "flameshot",
+            "stars": 30616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Greenshot",
+          "description": "Greenshot is a light-weight screenshot software tool for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-06T21:02:09Z",
+            "owner": "greenshot",
+            "repo": "greenshot",
+            "stars": 5066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capter",
+          "description": "A simple screenshot tool made in rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T13:17:52Z",
+            "owner": "decipher3114",
+            "repo": "Capter",
+            "stars": 234
+          }
+        }
+      ],
+      "title": "Screenshot"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ente Auth",
+          "description": "Open source 2FA authenticator, with E2EE backups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T12:00:05Z",
+            "owner": "ente",
+            "repo": "ente",
+            "stars": 28305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cryptomator",
+          "description": "Client-side encryption for cloud files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-01T16:25:31Z",
+            "owner": "cryptomator",
+            "repo": "cryptomator",
+            "stars": 15872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cppcryptfs",
+          "description": "cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-26T00:14:26Z",
+            "owner": "bailey27",
+            "repo": "cppcryptfs",
+            "stars": 950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Certificate Ripper",
+          "description": "A CLI tool to extract server certificates from a URL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T04:17:38Z",
+            "owner": "Hakky54",
+            "repo": "certificate-ripper",
+            "stars": 922
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scrcpy",
+          "description": "Easily mirror and control your Android devices on computers via USB or WiFi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-12T18:16:07Z",
+            "owner": "Genymobile",
+            "repo": "scrcpy",
+            "stars": 147551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerToys",
+          "description": "Microsoft's power user toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T11:29:27Z",
+            "owner": "microsoft",
+            "repo": "PowerToys",
+            "stars": 137720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalSend",
+          "description": "Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T01:31:25Z",
+            "owner": "localsend",
+            "repo": "localsend",
+            "stars": 88153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SyncThing",
+          "description": "Peer-to-peer file synchronization tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:08:02Z",
+            "owner": "syncthing",
+            "repo": "syncthing",
+            "stars": 87637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qBittorrent",
+          "description": "Free and reliable P2P Bittorrent client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T18:18:48Z",
+            "owner": "qbittorrent",
+            "repo": "qBittorrent",
+            "stars": 39445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rufus",
+          "description": "Bootable USB creation utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-03T11:33:58Z",
+            "owner": "pbatard",
+            "repo": "rufus",
+            "stars": 37279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "balenaEtcher",
+          "description": "Flash OS images to SD cards & USB drives safely and easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-02T09:25:23Z",
+            "owner": "balena-io",
+            "repo": "etcher",
+            "stars": 34150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neohtop",
+          "description": "Modern system monitor built with Svelte and Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-03-30T08:15:15Z",
+            "owner": "Abdenasser",
+            "repo": "neohtop",
+            "stars": 9265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twinkle Tray",
+          "description": "Easily manage the brightness levels of multiple monitors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:15:36Z",
+            "owner": "xanderfrangos",
+            "repo": "twinkle-tray",
+            "stars": 8889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BleachBit",
+          "description": "BleachBit is a free and open-source system cleaner designed to free up disk space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T15:24:50Z",
+            "owner": "bleachbit",
+            "repo": "bleachbit",
+            "stars": 6562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTTrack",
+          "description": "Offline website browser and mirror utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T10:48:27Z",
+            "owner": "xroche",
+            "repo": "httrack",
+            "stars": 4681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrystalDiskInfo",
+          "description": "Open-source utility for monitoring S.M.A.R.T. data, disk temperature and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T00:24:20Z",
+            "owner": "hiyohiyo",
+            "repo": "CrystalDiskInfo",
+            "stars": 3245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LightBulb",
+          "description": "Adaptive screen brightness utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T10:14:11Z",
+            "owner": "Tyrrrz",
+            "repo": "LightBulb",
+            "stars": 2749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Servy",
+          "description": "A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T12:01:33Z",
+            "owner": "aelassas",
+            "repo": "servy",
+            "stars": 1957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Process Hacker",
+          "description": "Comprehensive system monitoring and management tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-30T16:24:28Z",
+            "owner": "PKRoma",
+            "repo": "ProcessHacker",
+            "stars": 1153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrunchyCleaner",
+          "description": "A lightweight, software cache cleanup tool for Windows & Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T09:50:17Z",
+            "owner": "Knuspii",
+            "repo": "CrunchyCleaner",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HardwareExporterWindows",
+          "description": "Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-22T09:14:08Z",
+            "owner": "naughtyGitCat",
+            "repo": "HardwareExporterWindows",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "System Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Windows Terminal",
+          "description": "Official Microsoft terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T12:00:39Z",
+            "owner": "microsoft",
+            "repo": "terminal",
+            "stars": 104594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tabby",
+          "description": "Configurable terminal built on web technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:03:12Z",
+            "owner": "Eugeny",
+            "repo": "tabby",
+            "stars": 73898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alacritty",
+          "description": "Cross-platform, GPU-accelerated terminal emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T08:50:06Z",
+            "owner": "alacritty",
+            "repo": "alacritty",
+            "stars": 65348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WezTerm",
+          "description": "GPU-accelerated terminal emulator and multiplexer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:01:57Z",
+            "owner": "wezterm",
+            "repo": "wezterm",
+            "stars": 28334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cmder",
+          "description": "Console emulator with clink shell integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-03T15:54:03Z",
+            "owner": "cmderdev",
+            "repo": "cmder",
+            "stars": 26987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentTerminal",
+          "description": "UWP-based modern terminal emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-22T12:00:12Z",
+            "owner": "felixse",
+            "repo": "FluentTerminal",
+            "stars": 9607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConEmu",
+          "description": "Customizable terminal with tabs, splits, and quake-style dropdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-07T22:10:41Z",
+            "owner": "ConEmu",
+            "repo": "ConEmu",
+            "stars": 9240
+          }
+        }
+      ],
+      "title": "Terminal"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neovim",
+          "description": "Modern, extensible terminal-based editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-13T05:41:15Z",
+            "owner": "neovim",
+            "repo": "neovim",
+            "stars": 101776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notepad++",
+          "description": "Feature-rich source code editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:24:37Z",
+            "owner": "notepad-plus-plus",
+            "repo": "notepad-plus-plus",
+            "stars": 29000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LazyVim",
+          "description": "Customizable Neovim configuration framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-02T15:27:57Z",
+            "owner": "LazyVim",
+            "repo": "LazyVim",
+            "stars": 27149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GVim",
+          "description": "Highly configurable text editor optimized for efficiency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "NSIS",
+            "last_commit": "2026-08-11T00:53:38Z",
+            "owner": "vim",
+            "repo": "vim-win32-installer",
+            "stars": 2287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markra",
+          "description": "Local-first WYSIWYG Markdown editor with native AI review.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:34:36Z",
+            "owner": "markrahq",
+            "repo": "markra",
+            "stars": 738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inkwell",
+          "description": "Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-12T19:52:00Z",
+            "owner": "4worlds4w-svg",
+            "repo": "inkwell",
+            "stars": 250
+          }
+        }
+      ],
+      "title": "Text Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Desktop",
+          "description": "Electron-based GitHub client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:02:42Z",
+            "owner": "desktop",
+            "repo": "desktop",
+            "stars": 21754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevHub",
+          "description": "GitHub notifications on your desktop as a tray app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-07T23:06:30Z",
+            "owner": "devhubapp",
+            "repo": "devhub",
+            "stars": 10118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Extensions",
+          "description": "Powerful and user-friendly Git UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T20:18:24Z",
+            "owner": "gitextensions",
+            "repo": "gitextensions",
+            "stars": 8521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TortoiseGit",
+          "description": "Git client with full shell integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-27T22:00:04Z",
+            "owner": "TortoiseGit",
+            "repo": "TortoiseGit",
+            "stars": 1672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitLight",
+          "description": "Open-source GitHub & GitLab notifications client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-12-26T18:27:41Z",
+            "owner": "colinlienard",
+            "repo": "gitlight",
+            "stars": 929
+          }
+        }
+      ],
+      "title": "Version Control"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mpv",
+          "description": "Script-based media player with extensive keyboard controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T04:39:39Z",
+            "owner": "mpv-player",
+            "repo": "mpv",
+            "stars": 36517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScreenToGif",
+          "description": "Records screen areas and saves as GIF or video.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-28T17:52:48Z",
+            "owner": "NickeManarin",
+            "repo": "ScreenToGif",
+            "stars": 27464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HandBrake",
+          "description": "Converts videos between formats with compression options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T04:59:16Z",
+            "owner": "HandBrake",
+            "repo": "HandBrake",
+            "stars": 23996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLC",
+          "description": "Plays damaged/incomplete media files and network streams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T11:43:46Z",
+            "owner": "videolan",
+            "repo": "vlc",
+            "stars": 19305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shotcut",
+          "description": "Video editor with native timeline filtering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:40:52Z",
+            "owner": "mltframework",
+            "repo": "shotcut",
+            "stars": 14913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Olive Video Editor",
+          "description": "Node-based video editor with real-time effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-05T10:34:17Z",
+            "owner": "olive-editor",
+            "repo": "olive",
+            "stars": 9114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Screenbox",
+          "description": "Windows-optimized media player based on LibVLC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T13:14:51Z",
+            "owner": "huynhsontung",
+            "repo": "Screenbox",
+            "stars": 4053
+          }
+        }
+      ],
+      "title": "Video Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vagrant",
+          "description": "Tool for building and managing virtual machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-03T08:01:11Z",
+            "owner": "hashicorp",
+            "repo": "vagrant",
+            "stars": 27202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Podman Desktop",
+          "description": "Open source desktop containerization alternative to Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:49:55Z",
+            "owner": "podman-desktop",
+            "repo": "podman-desktop",
+            "stars": 7925
+          }
+        }
+      ],
+      "title": "Virtualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FancyZones",
+          "description": "PowerToys window manager for multi-monitor setups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T11:29:27Z",
+            "owner": "microsoft",
+            "repo": "PowerToys",
+            "stars": 137720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Komorebi",
+          "description": "Tiles windows dynamically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T01:23:58Z",
+            "owner": "LGUG2Z",
+            "repo": "komorebi",
+            "stars": 15009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlazeWM",
+          "description": "Rust-based tiling window manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-20T06:02:04Z",
+            "owner": "glzr-io",
+            "repo": "glazewm",
+            "stars": 12595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AltSnap",
+          "description": "Window snapping with keyboard shortcuts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-27T04:58:42Z",
+            "owner": "RamonUnch",
+            "repo": "AltSnap",
+            "stars": 5114
+          }
+        }
+      ],
+      "title": "Window Management"
+    },
+    {
+      "description": "Thanks to all contributors without you this project would not exist.\n\nPlease, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.\n",
+      "items": [],
+      "title": "Backers"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:02:16.471Z",
+    "original_repository": "0PandaDEV/awesome-windows",
+    "original_repository_sha": "469dbea94c91eb943ef307deaf2c603f691c0da0",
+    "enhanced_repository": "enhansome/enhansome-windows",
+    "enhanced_repository_description": null,
+    "title": "Awesome windows with stars"
+  }
+}
