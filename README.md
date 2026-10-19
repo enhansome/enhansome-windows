@@ -11,7 +11,7 @@ More information in CLAUDE.md and llms.txt.
 
 ![Awesome Windows](https://github.com/user-attachments/assets/b5897d15-99a5-42e5-a15a-de13687d70f3)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,784 | 🐛 105 | 📅 2026-09-02 [![Track Awesome List](https://img.shields.io/badge/Track_Awesome_List-494368?style=flat\&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB3aWR0aD0iMTAxIiBoZWlnaHQ9Ijg2Ljk4NCIgdmlld0JveD0iMCAwIDEwMSA4Ni45ODQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGc+CiAgICA8cmVjdCB3aWR0aD0iMTAxIiBoZWlnaHQ9Ijg2Ljk4NCIgLz4KICAgIDxwYXRoIGlkPSJWZWN0b3IiIGQ9Ik0yLjAwMDQ5IDE1LjUyMjFDMS4xODI3NCAxNC4wMTY0IDMuMTUyMzQgMTMuMDU0MiAzLjE1MjM0IDEzLjA1NDJDMy4xNTIzNCAxMy4wNTQyIDIuMDY5MzQgMTMuMDIwMSAyLjAwMDQ5IDExLjUyMjJDMS45MzE2NCAxMC4wMjQyIDMuNSA5LjAyMjE1IDMuNSA5LjAyMjE1QzMuNSA5LjAyMjE1IDIuMTE4OSA4LjY1Nzc0IDIuMDAwNDkgNy41MjIxNUMxLjg4MjA4IDYuMzg2NTYgMy4xNTIzNCA1LjUyMjE0IDMuMTUyMzQgNS41MjIxNEMzLjE1MjM0IDUuNTIyMTQgOS4wODYxOCAtMC40MDYwMjMgMjUgMC4wMjIxMjNDNDAuOTEzOCAwLjQ1MDI2OSA0Ny41MDAxIDguMDIyMjYgNDcuNTAwMSA4LjAyMjI2QzQ3LjUwMDEgOC4wMjIyNiA0OC45OTQzIDkuMjI3NTQgNDkgMTAuNTIyM0M0OS4wMDU3IDExLjgxNyA0Ny41MDAxIDEyLjUyMjMgNDcuNTAwMSAxMi41MjIzQzQ3LjUwMDEgMTIuNTIyMyA0OS4wODE4IDEzLjQxMyA0OSAxNC41MjIzQzQ4LjkxODMgMTUuNjMxNSA0Ny41MDAyIDE2LjUyMjMgNDcuNTAwMiAxNi41MjIzQzQ3LjUwMDIgMTYuNTIyMyA0OC40MjYxIDE4LjA1MzggNDcuNTAwMSAxOS4wMjIzQzQ2LjU3NCAxOS45OTA5IDQ1LjUwMDEgMTkuMDIyMyA0NS41MDAxIDE5LjAyMjNDNDUuNTAwMSAxOS4wMjIzIDM3LjQ4MjQgMTEuNjYxNCAyNS41IDExLjAyMjNDMTMuNTE3OSAxMC4zODMyIDUuMDAwOTggMTUuNTIyMSA1LjAwMDk4IDE1LjUyMjFDNS4wMDA5OCAxNS41MjIxIDIuODE4MzYgMTcuMDI3OCAyLjAwMDQ5IDE1LjUyMjFMMi4wMDA0OSAxNS41MjIxWk0yMy41IDE3LjUyMjJDMTAuNTIxNCAxNy41MjIyIDAgMjguMDQzNSAwIDQxLjAyMjJDMCA1NC4wMDA4IDEwLjUyMTQgNjQuNTIyMiAyMy41IDY0LjUyMjJDMzUuMzc5NiA2NC41MjIyIDQ1LjIwMDYgNTUuNzA3MyA0Ni43Nzg2IDQ0LjI2MTRDNDcuMTYwOSA0My45NDgxIDQ4LjA2NTcgNDMuNDcwMiA1MCA0My41MjIyQzUyLjg1MzggNDMuNTk4OCA1NCA0NS4wMjIyIDU0IDQ1LjAyMjJDNTQgNTguMDAxIDYxLjM5NTEgNjIuMTM2MiA2MS4zOTUxIDYyLjEzNjJDNjEuMzk1MSA2Mi4xMzYyIDY2LjA5MTcgNjAuMzY4MiA3NCA2MC41MjIyQzgxLjkwODMgNjAuNjc2MyA4OS41OTA4IDY1LjE3NzQgODkuNTkwOCA2NS4xNzc0Qzg5LjU5MDggNjUuMTc3NCAxMDEgNTguMDAxIDEwMSA0NS4wMjIyQzEwMSAzMi4wNDM1IDkwLjQ3ODggMjEuNTIyMiA3Ny41IDIxLjUyMjJDNjcuMDI1MyAyMS41MjIyIDU4LjE1MTIgMjguMzc1NCA1NS4xMTY5IDM3Ljg0MjZDNTQuMjc2OSAzNy40NjcyIDUyLjE3MzYgMzYuNjI1MyA1MCAzNi41MjIxQzQ3Ljc1MzMgMzYuNDE1NSA0Ni44ODI4IDM2LjY5NjggNDYuNjI0MyAzNi44MTM3QzQ0LjY0MDcgMjUuODQzMiAzNS4wNDIxIDE3LjUyMjIgMjMuNSAxNy41MjIyTDIzLjUgMTcuNTIyMlpNNDYgODUuMDIyMUw0OC40MDY0IDc4LjMyNDZDNDguNDA2NCA3OC4zMjQ2IDU3LjQ2NTggODEuMzEzMSA2My41IDc4LjAyMjJDNjkuNTM0MiA3NC43MzEyIDcyIDY3LjAyMjIgNzIgNjcuMDIyMkw3OSA2OS41MjIyQzc5IDY5LjUyMjIgNzcuNTA1OSA3OS4yOTEzIDY2IDg0LjUyMjFDNTQuNDk0MSA4OS43NTMgNDYgODUuMDIyMSA0NiA4NS4wMjIxTDQ2IDg1LjAyMjFaIiBmaWxsPSIjMDAwMDAwIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMCkiIC8+CiAgICA8cGF0aCBpZD0iVmVjdG9yIiBkPSJNMC4yNjgzMTEgMC40MTU0NDNDMC4yNjgzMTEgMC40MTU0NDMgMS45NDMzNiAtMC4wMDg5MzQwMiAzLjUgMC4wMDAxNDQ5NThDNS4wNTY2NCAwLjAwOTIyMDEyIDguNSAxLjAwMDE0IDguNSAxLjAwMDE0TDggMy41MDAxNEM4IDMuNTAwMTQgNi4zNzUyNCAyLjEyOTE4IDQgMi4wMDAxNEMxLjYyNDc2IDEuODcxMDkgMCAyLjUwMDE0IDAgMi41MDAxNEwwLjI2ODMxMSAwLjQxNTQ0M1oiIGZpbGw9IiMxNDEzMTEiIGZpbGwtcnVsZT0iZXZlbm9kZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDYuNSAzOS4wMjIpIiAvPgogICAgPHBhdGggaWQ9Ik92YWwiIGQ9Ik0wIDE0LjVDMCA2LjQ5MTg3IDYuNDkxODcgMCAxNC41IDBDMjIuNTA4MSAwIDI5IDYuNDkxODcgMjkgMTQuNUMyOSAyMi41MDgxIDIyLjUwODEgMjkgMTQuNSAyOUM2LjQ5MTg3IDI5IDAgMjIuNTA4MSAwIDE0LjVaIiBmaWxsPSIjRkZDQzAwIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDkgMjYuNTIyKSIgLz4KICAgIDxwYXRoIGlkPSJPdmFsIiBkPSJNMCAxNC41QzAgNi40OTE4NyA2LjQ5MTg3IDAgMTQuNSAwQzIyLjUwODEgMCAyOSA2LjQ5MTg3IDI5IDE0LjVDMjkgMjIuNTA4MSAyMi41MDgxIDI5IDE0LjUgMjlDNi40OTE4NyAyOSAwIDIyLjUwODEgMCAxNC41WiIgZmlsbD0iI0ZGQ0MwMCIgZmlsbC1ydWxlPSJldmVub2RkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2MyAzMC41MjIpIiAvPgogIDwvZz4KPC9zdmc+\&logoColor=black\&labelColor=1284C5)](https://www.trackawesomelist.com/0pandadev/awesome-windows/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,353 | 🐛 105 | 📅 2026-09-02 [![Track Awesome List](https://img.shields.io/badge/Track_Awesome_List-494368?style=flat\&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB3aWR0aD0iMTAxIiBoZWlnaHQ9Ijg2Ljk4NCIgdmlld0JveD0iMCAwIDEwMSA4Ni45ODQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGc+CiAgICA8cmVjdCB3aWR0aD0iMTAxIiBoZWlnaHQ9Ijg2Ljk4NCIgLz4KICAgIDxwYXRoIGlkPSJWZWN0b3IiIGQ9Ik0yLjAwMDQ5IDE1LjUyMjFDMS4xODI3NCAxNC4wMTY0IDMuMTUyMzQgMTMuMDU0MiAzLjE1MjM0IDEzLjA1NDJDMy4xNTIzNCAxMy4wNTQyIDIuMDY5MzQgMTMuMDIwMSAyLjAwMDQ5IDExLjUyMjJDMS45MzE2NCAxMC4wMjQyIDMuNSA5LjAyMjE1IDMuNSA5LjAyMjE1QzMuNSA5LjAyMjE1IDIuMTE4OSA4LjY1Nzc0IDIuMDAwNDkgNy41MjIxNUMxLjg4MjA4IDYuMzg2NTYgMy4xNTIzNCA1LjUyMjE0IDMuMTUyMzQgNS41MjIxNEMzLjE1MjM0IDUuNTIyMTQgOS4wODYxOCAtMC40MDYwMjMgMjUgMC4wMjIxMjNDNDAuOTEzOCAwLjQ1MDI2OSA0Ny41MDAxIDguMDIyMjYgNDcuNTAwMSA4LjAyMjI2QzQ3LjUwMDEgOC4wMjIyNiA0OC45OTQzIDkuMjI3NTQgNDkgMTAuNTIyM0M0OS4wMDU3IDExLjgxNyA0Ny41MDAxIDEyLjUyMjMgNDcuNTAwMSAxMi41MjIzQzQ3LjUwMDEgMTIuNTIyMyA0OS4wODE4IDEzLjQxMyA0OSAxNC41MjIzQzQ4LjkxODMgMTUuNjMxNSA0Ny41MDAyIDE2LjUyMjMgNDcuNTAwMiAxNi41MjIzQzQ3LjUwMDIgMTYuNTIyMyA0OC40MjYxIDE4LjA1MzggNDcuNTAwMSAxOS4wMjIzQzQ2LjU3NCAxOS45OTA5IDQ1LjUwMDEgMTkuMDIyMyA0NS41MDAxIDE5LjAyMjNDNDUuNTAwMSAxOS4wMjIzIDM3LjQ4MjQgMTEuNjYxNCAyNS41IDExLjAyMjNDMTMuNTE3OSAxMC4zODMyIDUuMDAwOTggMTUuNTIyMSA1LjAwMDk4IDE1LjUyMjFDNS4wMDA5OCAxNS41MjIxIDIuODE4MzYgMTcuMDI3OCAyLjAwMDQ5IDE1LjUyMjFMMi4wMDA0OSAxNS41MjIxWk0yMy41IDE3LjUyMjJDMTAuNTIxNCAxNy41MjIyIDAgMjguMDQzNSAwIDQxLjAyMjJDMCA1NC4wMDA4IDEwLjUyMTQgNjQuNTIyMiAyMy41IDY0LjUyMjJDMzUuMzc5NiA2NC41MjIyIDQ1LjIwMDYgNTUuNzA3MyA0Ni43Nzg2IDQ0LjI2MTRDNDcuMTYwOSA0My45NDgxIDQ4LjA2NTcgNDMuNDcwMiA1MCA0My41MjIyQzUyLjg1MzggNDMuNTk4OCA1NCA0NS4wMjIyIDU0IDQ1LjAyMjJDNTQgNTguMDAxIDYxLjM5NTEgNjIuMTM2MiA2MS4zOTUxIDYyLjEzNjJDNjEuMzk1MSA2Mi4xMzYyIDY2LjA5MTcgNjAuMzY4MiA3NCA2MC41MjIyQzgxLjkwODMgNjAuNjc2MyA4OS41OTA4IDY1LjE3NzQgODkuNTkwOCA2NS4xNzc0Qzg5LjU5MDggNjUuMTc3NCAxMDEgNTguMDAxIDEwMSA0NS4wMjIyQzEwMSAzMi4wNDM1IDkwLjQ3ODggMjEuNTIyMiA3Ny41IDIxLjUyMjJDNjcuMDI1MyAyMS41MjIyIDU4LjE1MTIgMjguMzc1NCA1NS4xMTY5IDM3Ljg0MjZDNTQuMjc2OSAzNy40NjcyIDUyLjE3MzYgMzYuNjI1MyA1MCAzNi41MjIxQzQ3Ljc1MzMgMzYuNDE1NSA0Ni44ODI4IDM2LjY5NjggNDYuNjI0MyAzNi44MTM3QzQ0LjY0MDcgMjUuODQzMiAzNS4wNDIxIDE3LjUyMjIgMjMuNSAxNy41MjIyTDIzLjUgMTcuNTIyMlpNNDYgODUuMDIyMUw0OC40MDY0IDc4LjMyNDZDNDguNDA2NCA3OC4zMjQ2IDU3LjQ2NTggODEuMzEzMSA2My41IDc4LjAyMjJDNjkuNTM0MiA3NC43MzEyIDcyIDY3LjAyMjIgNzIgNjcuMDIyMkw3OSA2OS41MjIyQzc5IDY5LjUyMjIgNzcuNTA1OSA3OS4yOTEzIDY2IDg0LjUyMjFDNTQuNDk0MSA4OS43NTMgNDYgODUuMDIyMSA0NiA4NS4wMjIxTDQ2IDg1LjAyMjFaIiBmaWxsPSIjMDAwMDAwIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMCkiIC8+CiAgICA8cGF0aCBpZD0iVmVjdG9yIiBkPSJNMC4yNjgzMTEgMC40MTU0NDNDMC4yNjgzMTEgMC40MTU0NDMgMS45NDMzNiAtMC4wMDg5MzQwMiAzLjUgMC4wMDAxNDQ5NThDNS4wNTY2NCAwLjAwOTIyMDEyIDguNSAxLjAwMDE0IDguNSAxLjAwMDE0TDggMy41MDAxNEM4IDMuNTAwMTQgNi4zNzUyNCAyLjEyOTE4IDQgMi4wMDAxNEMxLjYyNDc2IDEuODcxMDkgMCAyLjUwMDE0IDAgMi41MDAxNEwwLjI2ODMxMSAwLjQxNTQ0M1oiIGZpbGw9IiMxNDEzMTEiIGZpbGwtcnVsZT0iZXZlbm9kZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDYuNSAzOS4wMjIpIiAvPgogICAgPHBhdGggaWQ9Ik92YWwiIGQ9Ik0wIDE0LjVDMCA2LjQ5MTg3IDYuNDkxODcgMCAxNC41IDBDMjIuNTA4MSAwIDI5IDYuNDkxODcgMjkgMTQuNUMyOSAyMi41MDgxIDIyLjUwODEgMjkgMTQuNSAyOUM2LjQ5MTg3IDI5IDAgMjIuNTA4MSAwIDE0LjVaIiBmaWxsPSIjRkZDQzAwIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDkgMjYuNTIyKSIgLz4KICAgIDxwYXRoIGlkPSJPdmFsIiBkPSJNMCAxNC41QzAgNi40OTE4NyA2LjQ5MTg3IDAgMTQuNSAwQzIyLjUwODEgMCAyOSA2LjQ5MTg3IDI5IDE0LjVDMjkgMjIuNTA4MSAyMi41MDgxIDI5IDE0LjUgMjlDNi40OTE4NyAyOSAwIDIyLjUwODEgMCAxNC41WiIgZmlsbD0iI0ZGQ0MwMCIgZmlsbC1ydWxlPSJldmVub2RkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2MyAzMC41MjIpIiAvPgogIDwvZz4KPC9zdmc+\&logoColor=black\&labelColor=1284C5)](https://www.trackawesomelist.com/0pandadev/awesome-windows/)
 
 ![star] - Personal favorites<br>
 ![oss] - Open source<br>
@@ -88,18 +88,18 @@ More information in CLAUDE.md and llms.txt.
 
 ## API Development
 
-* [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software][oss]](https://github.com/hoppscotch/hoppscotch) ⭐ 80,643 | 🐛 858 | 🌐 TypeScript | 📅 2026-10-12
-* [Bruno](https://www.usebruno.com/) - Tests APIs with Git version control integration. [![Open-Source Software][oss]](https://github.com/usebruno/bruno) ⭐ 47,711 | 🐛 1,897 | 🌐 JavaScript | 📅 2026-10-16 ![star]
-* [Yaak](https://yaak.app) - Modern lightweight tauri based API testing application. [![Open-Source Software][oss]](https://github.com/mountain-loop/yaak) ⭐ 19,328 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-16
+* [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software][oss]](https://github.com/hoppscotch/hoppscotch) ⭐ 80,655 | 🐛 858 | 🌐 TypeScript | 📅 2026-10-19
+* [Bruno](https://www.usebruno.com/) - Tests APIs with Git version control integration. [![Open-Source Software][oss]](https://github.com/usebruno/bruno) ⭐ 47,742 | 🐛 1,897 | 🌐 JavaScript | 📅 2026-10-19 ![star]
+* [Yaak](https://yaak.app) - Modern lightweight tauri based API testing application. [![Open-Source Software][oss]](https://github.com/mountain-loop/yaak) ⭐ 19,334 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-19
 * [HTTP Toolkit](https://httptoolkit.tech) - Intercepts and modifies HTTP traffic. [![Open-Source Software][oss]](https://github.com/httptoolkit)
 * [Insomnia](https://insomnia.rest) - Tests APIs with GraphQL support. ![Open-Source Software](/assets/opensource.svg)
 * [Postman](https://www.getpostman.com/postman) - Tests APIs with automated test scripts and monitoring.
 
 ## Application Launchers
 
-* [Wox](http://wox-launcher.github.io/Wox/) - Launches apps with web search integration. [![Open-Source Software][oss]](https://github.com/Wox-launcher/Wox/) ⭐ 27,531 | 🐛 2 | 🌐 Go | 📅 2026-10-18
-* [Flow Launcher](https://flowlauncher.com/) - Searches files and launches apps with plugin extensibility. [![Open-Source Software][oss]](https://github.com/Flow-Launcher/Flow.Launcher) ⭐ 15,818 | 🐛 303 | 🌐 C# | 📅 2026-10-18 ![star]
-* [ueli](https://ueli.app/#/) - Powerful keystroke launcher. [![Open-Source Software][oss]](https://github.com/oliverschwendener/ueli) ⭐ 4,609 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-16
+* [Wox](http://wox-launcher.github.io/Wox/) - Launches apps with web search integration. [![Open-Source Software][oss]](https://github.com/Wox-launcher/Wox/) ⭐ 27,536 | 🐛 3 | 🌐 Go | 📅 2026-10-19
+* [Flow Launcher](https://flowlauncher.com/) - Searches files and launches apps with plugin extensibility. [![Open-Source Software][oss]](https://github.com/Flow-Launcher/Flow.Launcher) ⭐ 15,832 | 🐛 303 | 🌐 C# | 📅 2026-10-18 ![star]
+* [ueli](https://ueli.app/#/) - Powerful keystroke launcher. [![Open-Source Software][oss]](https://github.com/oliverschwendener/ueli) ⭐ 4,610 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-16
 * [kunkun](https://github.com/kunkunsh/kunkun) ⭐ 1,307 | 🐛 55 | 🌐 TypeScript | 📅 2026-02-10 - Raycast/Alfred-like launcher with sandboxed extensions ![oss]
 * [Velocmd](https://yashvardhang.github.io/Velocmd/) - A lightning fast, native system launcher. Search files, run commands, and navigate your system seamlessly. [![Open-Source Software][oss]](https://github.com/YashvardhanG/Velocmd) ⭐ 24 | 🐛 1 | 🌐 Rust | 📅 2026-08-04
 * [Keypirinha](https://keypirinha.com/) - Launches apps through fuzzy search and keyboard shortcuts.
@@ -108,12 +108,12 @@ More information in CLAUDE.md and llms.txt.
 
 ## Audio
 
-* [Audacity](https://audacityteam.org/) - Records and edits audio. [![Open-Source Software][oss]](https://github.com/audacity/audacity) ⭐ 18,775 | 🐛 1,892 | 🌐 C++ | 📅 2026-10-18
-* [Mixxx](https://mixxx.org/) - Mixes music for DJs. [![Open-Source Software][oss]](https://github.com/mixxxdj/mixxx) ⭐ 7,278 | 🐛 2,978 | 🌐 C++ | 📅 2026-10-17
-* [MusicBrainz Picard](https://picard.musicbrainz.org/) - Identifies and tags music files. [![Open-Source Software][oss]](https://github.com/metabrainz/picard) ⭐ 5,311 | 🐛 9 | 🌐 Python | 📅 2026-10-17
-* [musikcube](https://musikcube.com/) - Plays music through terminal. [![Open-Source Software][oss]](https://github.com/clangen/musikcube) ⭐ 4,853 | 🐛 179 | 🌐 C++ | 📅 2026-03-23
-* [Dopamine](https://digimezzo.github.io/site/) - Plays and organizes music. [![Open-Source Software][oss]](https://github.com/digimezzo/dopamine) ⭐ 2,406 | 🐛 385 | 🌐 TypeScript | 📅 2026-10-17
-* [FlexASIO](https://flexasio.com/) - A universal ASIO driver that delivers low-latency, high-quality sound. [![Open-Source Software][oss]](https://github.com/dechamps/FlexASIO) ⭐ 2,053 | 🐛 66 | 🌐 C++ | 📅 2024-06-27
+* [Audacity](https://audacityteam.org/) - Records and edits audio. [![Open-Source Software][oss]](https://github.com/audacity/audacity) ⭐ 18,786 | 🐛 1,887 | 🌐 C++ | 📅 2026-10-19
+* [Mixxx](https://mixxx.org/) - Mixes music for DJs. [![Open-Source Software][oss]](https://github.com/mixxxdj/mixxx) ⭐ 7,288 | 🐛 2,979 | 🌐 C++ | 📅 2026-10-17
+* [MusicBrainz Picard](https://picard.musicbrainz.org/) - Identifies and tags music files. [![Open-Source Software][oss]](https://github.com/metabrainz/picard) ⭐ 5,313 | 🐛 11 | 🌐 Python | 📅 2026-10-17
+* [musikcube](https://musikcube.com/) - Plays music through terminal. [![Open-Source Software][oss]](https://github.com/clangen/musikcube) ⭐ 4,855 | 🐛 179 | 🌐 C++ | 📅 2026-03-23
+* [Dopamine](https://digimezzo.github.io/site/) - Plays and organizes music. [![Open-Source Software][oss]](https://github.com/digimezzo/dopamine) ⭐ 2,405 | 🐛 385 | 🌐 TypeScript | 📅 2026-10-17
+* [FlexASIO](https://flexasio.com/) - A universal ASIO driver that delivers low-latency, high-quality sound. [![Open-Source Software][oss]](https://github.com/dechamps/FlexASIO) ⭐ 2,055 | 🐛 66 | 🌐 C++ | 📅 2024-06-27
 * [Nora](https://noramusic.netlify.app/) - Plays and manages music. [![Open-Source Software][oss]](https://github.com/Sandakan/Nora) ⭐ 1,247 | 🐛 122 | 🌐 TypeScript | 📅 2026-10-08
 * [Ableton Live](https://www.ableton.com/en/live/) - Fluid software for music creation and performance.
 * [AudioNodes](https://audionodes.com/) - Produces music with mixing, effects, MIDI and synthesis.
@@ -126,16 +126,16 @@ More information in CLAUDE.md and llms.txt.
 
 ## Backup
 
-* [Restic](https://restic.net/) - Backs up data to various storage types. [![Open-Source Software][oss]](https://github.com/restic/restic/tree/master) ⭐ 36,643 | 🐛 621 | 🌐 Go | 📅 2026-10-18
-* [Duplicati](https://www.duplicati.com/) - Stores encrypted backups online. [![Open-Source Software][oss]](https://github.com/duplicati/duplicati) ⭐ 15,130 | 🐛 595 | 🌐 C# | 📅 2026-10-16
-* [Kopia](https://kopia.io/) - Creates incremental backups with client-side encryption and cloud support. [![Open-Source Software][oss]](https://github.com/kopia/kopia) ⭐ 14,375 | 🐛 914 | 🌐 Go | 📅 2026-10-18
+* [Restic](https://restic.net/) - Backs up data to various storage types. [![Open-Source Software][oss]](https://github.com/restic/restic/tree/master) ⭐ 36,663 | 🐛 623 | 🌐 Go | 📅 2026-10-18
+* [Duplicati](https://www.duplicati.com/) - Stores encrypted backups online. [![Open-Source Software][oss]](https://github.com/duplicati/duplicati) ⭐ 15,136 | 🐛 589 | 🌐 C# | 📅 2026-10-19
+* [Kopia](https://kopia.io/) - Creates incremental backups with client-side encryption and cloud support. [![Open-Source Software][oss]](https://github.com/kopia/kopia) ⭐ 14,383 | 🐛 916 | 🌐 Go | 📅 2026-10-18
 
 ## Browsers
 
-* [Zen Browser](https://zen-browser.app/) - Firefox-based with community modifications. [![Open-Source Software][oss]](https://github.com/zen-browser/desktop) ⭐ 44,994 | 🐛 777 | 🌐 C++ | 📅 2026-10-18 ![star]
-* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 28,030 | 🐛 182 | 🌐 Python | 📅 2026-10-16 - Removes Google integration and tracking. ![Open-Source Software](/assets/opensource.svg)
-* [Brave](https://brave.com) - Privacy focused browser with built-in adblock. [![oss][oss]](https://github.com/brave/brave-browser) ⭐ 23,918 | 🐛 11,089 | 📅 2026-10-17
-* [Helium](https://helium.computer/) - Browser based on Ungoogled Chromium with privacy, split-view, bangs and built-in ad-blocker. [![Open-Source Software][oss]](https://github.com/imputnet/helium/) ⭐ 21,675 | 🐛 495 | 🌐 C++ | 📅 2026-10-18
+* [Zen Browser](https://zen-browser.app/) - Firefox-based with community modifications. [![Open-Source Software][oss]](https://github.com/zen-browser/desktop) ⭐ 45,025 | 🐛 771 | 🌐 C++ | 📅 2026-10-19 ![star]
+* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 28,042 | 🐛 182 | 🌐 Python | 📅 2026-10-16 - Removes Google integration and tracking. ![Open-Source Software](/assets/opensource.svg)
+* [Brave](https://brave.com) - Privacy focused browser with built-in adblock. [![oss][oss]](https://github.com/brave/brave-browser) ⭐ 23,927 | 🐛 11,098 | 📅 2026-10-19
+* [Helium](https://helium.computer/) - Browser based on Ungoogled Chromium with privacy, split-view, bangs and built-in ad-blocker. [![Open-Source Software][oss]](https://github.com/imputnet/helium/) ⭐ 21,709 | 🐛 500 | 🌐 C++ | 📅 2026-10-19
 * [Firefox](https://firefox.com) - Browser with privacy and customization. [![oss][]](https://hg.mozilla.org/mozilla-central)
 * [Librewolf](https://librewolf.net) - A custom version of Firefox, focused on privacy, security and freedom. [![Open-Source Software][oss]](https://codeberg.org/librewolf/source)
 * [Tor Browser](https://www.torproject.org/) - Privacy browser routing traffic over the Tor network. [![Open-Source Software][oss]](https://gitlab.torproject.org/tpo/core/tor)
@@ -159,27 +159,27 @@ More information in CLAUDE.md and llms.txt.
 
 ## Command Line Tools
 
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 199,093 | 🐛 2,715 | 🌐 Python | 📅 2026-10-10 - A feature-rich command-line audio/video downloader. ![Open-Source Software](/assets/opensource.svg)
-* [PowerShell 7](https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows) - PowerShell 7 is free and opensource, cross platform (Win, Linux) shell by Microsoft. [![Open-Source Software][oss]](https://github.com/PowerShell/powershell/releases) ⭐ 55,809 | 🐛 1,629 | 🌐 C# | 📅 2026-10-16
-* [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software][oss]](https://github.com/microsoft/winget-cli) ⭐ 26,509 | 🐛 1,313 | 🌐 C++ | 📅 2026-10-14
-* [Fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 25,064 | 🐛 105 | 🌐 C | 📅 2026-10-17 - A maintained, feature-rich and performance oriented, neofetch like system information tool. ![Open-Source Software](/assets/opensource.svg)
-* [Scoop](https://github.com/lukesampson/scoop) ⭐ 24,747 | 🐛 512 | 🌐 PowerShell | 📅 2026-10-17 - Command-line installer for Windows. ![Open-Source Software](/assets/opensource.svg)
-* [gallery-dl](https://github.com/mikf/gallery-dl) ⭐ 20,134 | 🐛 1,074 | 🌐 Python | 📅 2026-10-17 - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](/assets/opensource.svg)
-* [gsudo](https://gerardog.github.io/gsudo/) - Sudo equivalent for Windows, allows you to run a command with elevated permissions. [![Open-Source Software][oss]](https://github.com/gerardog/gsudo) ⭐ 6,061 | 🐛 51 | 🌐 C# | 📅 2026-08-12
-* [btop4win](https://github.com/aristocratos/btop4win) ⭐ 2,045 | 🐛 36 | 🌐 C++ | 📅 2025-10-12 - Windows port of the famous btop resource monitor. ![Open-Source Software](/assets/opensource.svg)
-* [winfetch](https://github.com/lptstr/winfetch) ⭐ 1,796 | 🐛 25 | 🌐 PowerShell | 📅 2024-05-09 - Command-line system information utility written in PowerShell. [![Open-Source Software][oss]](https://github.com/lptstr/winfetch) ⭐ 1,796 | 🐛 25 | 🌐 PowerShell | 📅 2024-05-09
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 199,438 | 🐛 2,721 | 🌐 Python | 📅 2026-10-10 - A feature-rich command-line audio/video downloader. ![Open-Source Software](/assets/opensource.svg)
+* [PowerShell 7](https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows) - PowerShell 7 is free and opensource, cross platform (Win, Linux) shell by Microsoft. [![Open-Source Software][oss]](https://github.com/PowerShell/powershell/releases) ⭐ 55,834 | 🐛 1,632 | 🌐 C# | 📅 2026-10-19
+* [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software][oss]](https://github.com/microsoft/winget-cli) ⭐ 26,511 | 🐛 1,316 | 🌐 C++ | 📅 2026-10-14
+* [Fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 25,070 | 🐛 108 | 🌐 C | 📅 2026-10-18 - A maintained, feature-rich and performance oriented, neofetch like system information tool. ![Open-Source Software](/assets/opensource.svg)
+* [Scoop](https://github.com/lukesampson/scoop) ⭐ 24,752 | 🐛 511 | 🌐 PowerShell | 📅 2026-10-19 - Command-line installer for Windows. ![Open-Source Software](/assets/opensource.svg)
+* [gallery-dl](https://github.com/mikf/gallery-dl) ⭐ 20,157 | 🐛 1,074 | 🌐 Python | 📅 2026-10-17 - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](/assets/opensource.svg)
+* [gsudo](https://gerardog.github.io/gsudo/) - Sudo equivalent for Windows, allows you to run a command with elevated permissions. [![Open-Source Software][oss]](https://github.com/gerardog/gsudo) ⭐ 6,064 | 🐛 51 | 🌐 C# | 📅 2026-08-12
+* [btop4win](https://github.com/aristocratos/btop4win) ⭐ 2,044 | 🐛 36 | 🌐 C++ | 📅 2025-10-12 - Windows port of the famous btop resource monitor. ![Open-Source Software](/assets/opensource.svg)
+* [winfetch](https://github.com/lptstr/winfetch) ⭐ 1,796 | 🐛 24 | 🌐 PowerShell | 📅 2024-05-09 - Command-line system information utility written in PowerShell. [![Open-Source Software][oss]](https://github.com/lptstr/winfetch) ⭐ 1,796 | 🐛 24 | 🌐 PowerShell | 📅 2024-05-09
 * [Cinema](https://github.com/marm00/cinema) ⭐ 42 | 🐛 0 | 🌐 C | 📅 2026-06-02 - Command-line multiviewer for local and online media with custom layouts. ![Open-Source Software](/assets/opensource.svg)
 * [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
 * [gitty](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](/assets/opensource.svg)
 
 ## Communication
 
-* [Vencord](https://vencord.dev) - The cutest Discord client mod with lots of plugins. [![Open-Source Software][oss]](https://github.com/Vendicated/Vencord) ⭐ 14,275 | 🐛 299 | 🌐 TypeScript | 📅 2026-10-15
-* [Element](https://element.io/) - Client for the Matrix protocol. [![Open-Source Software][oss]](https://github.com/element-hq/element-web) ⭐ 13,592 | 🐛 3,690 | 🌐 TypeScript | 📅 2026-10-17
-* [Unigram](https://github.com/UnigramDev/Unigram) ⭐ 5,459 | 🐛 130 | 🌐 C# | 📅 2026-10-17 - Telegram client optimized for Windows. [![Open-Source Software][oss]](https://github.com/UnigramDev/Unigram) ⭐ 5,459 | 🐛 130 | 🌐 C# | 📅 2026-10-17
+* [Vencord](https://vencord.dev) - The cutest Discord client mod with lots of plugins. [![Open-Source Software][oss]](https://github.com/Vendicated/Vencord) ⭐ 14,282 | 🐛 295 | 🌐 TypeScript | 📅 2026-10-18
+* [Element](https://element.io/) - Client for the Matrix protocol. [![Open-Source Software][oss]](https://github.com/element-hq/element-web) ⭐ 13,595 | 🐛 3,710 | 🌐 TypeScript | 📅 2026-10-19
+* [Unigram](https://github.com/UnigramDev/Unigram) ⭐ 5,463 | 🐛 130 | 🌐 C# | 📅 2026-10-17 - Telegram client optimized for Windows. [![Open-Source Software][oss]](https://github.com/UnigramDev/Unigram) ⭐ 5,463 | 🐛 130 | 🌐 C# | 📅 2026-10-17
 * [Franz](https://meetfranz.com/) - Combines multiple chat services into one app. [![Open-Source Software][oss]](https://github.com/meetfranz/franz) ⭐ 4,728 | 🐛 390 | 🌐 JavaScript | 📅 2026-06-12
-* [LegCord](https://legcord.app/) - Discord client with Vencord and shelter integration. [![Open-Source Software][oss]](https://github.com/legcord/legcord) ⭐ 3,476 | 🐛 138 | 🌐 TypeScript | 📅 2026-10-17
-* [Equicord](https://github.com/Equicord/Equicord) ⭐ 1,779 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-18 - Fork of Vencord with additional plugins and features. [![Open-Source Software][oss]](https://github.com/Equicord/Equicord) ⭐ 1,779 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-18 ![star]
+* [LegCord](https://legcord.app/) - Discord client with Vencord and shelter integration. [![Open-Source Software][oss]](https://github.com/legcord/legcord) ⭐ 3,481 | 🐛 140 | 🌐 TypeScript | 📅 2026-10-17
+* [Equicord](https://github.com/Equicord/Equicord) ⭐ 1,779 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-19 - Fork of Vencord with additional plugins and features. [![Open-Source Software][oss]](https://github.com/Equicord/Equicord) ⭐ 1,779 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-19 ![star]
 * [Beeper](https://beeper.com) - Combines WhatsApp, Slack, Telegram, Signal, X, Instagram, SMS into one app.
 * [Discord](https://discordapp.com) - Voice and text chat platform.
 * [Matrix](https://matrix.org/) - Network for secure, decentralized communication. [![Open-Source Software][oss]](https://github.com/matrix-org)
@@ -190,24 +190,24 @@ More information in CLAUDE.md and llms.txt.
 
 ## Compression
 
-* [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us\&gl=US) - Windows-optimized 7-Zip variant. [![Open-Source Software][oss]](https://github.com/M2Team/NanaZip) ⭐ 15,884 | 🐛 393 | 🌐 C++ | 📅 2026-10-17 ![star]
-* [PeaZip](https://peazip.github.io/) - Archive manager with compression format support. [![Open-Source Software][oss]](https://github.com/peazip/PeaZip) ⭐ 7,985 | 🐛 17 | 🌐 Pascal | 📅 2026-10-18
-* [7-Zip](https://www.7-zip.org/) - File archiver with multiple format support. [![Open-Source Software][oss]](https://github.com/ip7z/7zip) ⭐ 4,191 | 🐛 200 | 🌐 C++ | 📅 2026-10-06
+* [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us\&gl=US) - Windows-optimized 7-Zip variant. [![Open-Source Software][oss]](https://github.com/M2Team/NanaZip) ⭐ 15,904 | 🐛 392 | 🌐 C++ | 📅 2026-10-17 ![star]
+* [PeaZip](https://peazip.github.io/) - Archive manager with compression format support. [![Open-Source Software][oss]](https://github.com/peazip/PeaZip) ⭐ 7,992 | 🐛 17 | 🌐 Pascal | 📅 2026-10-18
+* [7-Zip](https://www.7-zip.org/) - File archiver with multiple format support. [![Open-Source Software][oss]](https://github.com/ip7z/7zip) ⭐ 4,196 | 🐛 200 | 🌐 C++ | 📅 2026-10-06
 * [Bandizip](https://www.bandisoft.com/bandizip/) - Archive manager with multiple format support.
 * [Riot](https://riot-optimizer.com/) - Compresses images with multiple optimization options.
 * [WinRAR](https://www.rarlab.com/) - Compresses, backs up and splits files. ![paid]
 
 ## Customization
 
-* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,572 | 🐛 332 | 🌐 C++ | 📅 2026-10-13 - Makes taskbar transparent. ![Open-Source Software](/assets/opensource.svg)
-* [EarTrumpet](https://eartrumpet.app/) - Controls volume per application. [![Open-Source Software][oss]](https://github.com/File-New-Project/EarTrumpet) ⭐ 11,454 | 🐛 118 | 🌐 C# | 📅 2026-10-18
-* [WindHawk](https://windhawk.net/) - A list of useful software Tweaks. [![Open-Source Software][oss]](https://github.com/ramensoftware/windhawk) ⭐ 9,441 | 🐛 167 | 🌐 Rust | 📅 2026-10-10
-* [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu) ⭐ 9,412 | 🐛 706 | 🌐 C++ | 📅 2026-10-17 - Restores traditional Start Menu interface. ![Open-Source Software](/assets/opensource.svg)
-* [Rainmeter](https://www.rainmeter.net/) - Displays customizable skins and widgets. [![Open-Source Software][oss]](https://github.com/rainmeter/rainmeter) ⭐ 6,086 | 🐛 31 | 🌐 C++ | 📅 2026-10-17
-* [YASB](https://github.com/amnweb/yasb) ⭐ 5,669 | 🐛 105 | 🌐 Python | 📅 2026-10-18 - Creates customizable status bars. ![Open-Source Software](/assets/opensource.svg)
-* [FluentFlyout](https://fluentflyout.com/) - Displays media controls, lock key status and taskbar widgets in native-looking Fluent 2 flyouts. [![Open-Source Software][oss]](https://github.com/unchihugo/FluentFlyout) ⭐ 4,734 | 🐛 342 | 🌐 C# | 📅 2026-10-18
-* [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) ⭐ 1,559 | 🐛 16 | 🌐 C# | 📅 2026-10-14 - A live wallpaper app, a free and opensource alternative to Wallpaper Engine. [![Open-Source Software][oss]](https://github.com/Taiizor/Sucrose) ⭐ 1,559 | 🐛 16 | 🌐 C# | 📅 2026-10-14
-* [Talkdedsec Visual](https://github.com/Talkdedsec1/tlk-visual) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-10-06 - Adjusts screen brightness, contrast, gamma and colour temperature in real time. [![Open-Source Software][oss]](https://github.com/Talkdedsec1/tlk-visual) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-10-06
+* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,588 | 🐛 332 | 🌐 C++ | 📅 2026-10-13 - Makes taskbar transparent. ![Open-Source Software](/assets/opensource.svg)
+* [EarTrumpet](https://eartrumpet.app/) - Controls volume per application. [![Open-Source Software][oss]](https://github.com/File-New-Project/EarTrumpet) ⭐ 11,457 | 🐛 118 | 🌐 C# | 📅 2026-10-18
+* [WindHawk](https://windhawk.net/) - A list of useful software Tweaks. [![Open-Source Software][oss]](https://github.com/ramensoftware/windhawk) ⭐ 9,448 | 🐛 171 | 🌐 Rust | 📅 2026-10-10
+* [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu) ⭐ 9,413 | 🐛 706 | 🌐 C++ | 📅 2026-10-17 - Restores traditional Start Menu interface. ![Open-Source Software](/assets/opensource.svg)
+* [Rainmeter](https://www.rainmeter.net/) - Displays customizable skins and widgets. [![Open-Source Software][oss]](https://github.com/rainmeter/rainmeter) ⭐ 6,094 | 🐛 31 | 🌐 C++ | 📅 2026-10-19
+* [YASB](https://github.com/amnweb/yasb) ⭐ 5,679 | 🐛 105 | 🌐 Python | 📅 2026-10-19 - Creates customizable status bars. ![Open-Source Software](/assets/opensource.svg)
+* [FluentFlyout](https://fluentflyout.com/) - Displays media controls, lock key status and taskbar widgets in native-looking Fluent 2 flyouts. [![Open-Source Software][oss]](https://github.com/unchihugo/FluentFlyout) ⭐ 4,747 | 🐛 343 | 🌐 C# | 📅 2026-10-18
+* [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) ⭐ 1,564 | 🐛 16 | 🌐 C# | 📅 2026-10-18 - A live wallpaper app, a free and opensource alternative to Wallpaper Engine. [![Open-Source Software][oss]](https://github.com/Taiizor/Sucrose) ⭐ 1,564 | 🐛 16 | 🌐 C# | 📅 2026-10-18
+* [Talkdedsec Visual](https://github.com/Talkdedsec1/tlk-visual) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-10-06 - Adjusts screen brightness, contrast, gamma and colour temperature in real time. [![Open-Source Software][oss]](https://github.com/Talkdedsec1/tlk-visual) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-10-06
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Modifies Windows taskbar behavior.
 * [QTTabBar](https://qttabbar.wikidot.com/) - Adds tabs to Explorer.
 * [Shell](https://nilesoft.org) - Powerful, free, open source context menu manager ![oss]
@@ -225,17 +225,17 @@ More information in CLAUDE.md and llms.txt.
 
 ## Databases Clients
 
-* [DBeaver](https://dbeaver.io/) - Free and open-source database management tool. [![Open-Source Software][oss]](https://github.com/dbeaver/dbeaver) ⭐ 52,113 | 🐛 3,362 | 🌐 Java | 📅 2026-10-18
-* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐ 34,812 | 🐛 166 | 🌐 JavaScript | 📅 2026-08-20 - Fast and stable Redis GUI client with cluster, sentinel, SSH support. [![Open-Source Software][oss]](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐ 34,812 | 🐛 166 | 🌐 JavaScript | 📅 2026-08-20
-* [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more. [![Open-Source Software][oss]](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 23,758 | 🐛 1,192 | 🌐 TypeScript | 📅 2026-10-18
-* [pgAdmin](https://www.pgadmin.org/) - Feature-rich, open-source administration and development platform for PostgreSQL. [![Open-Source Software][oss]](https://github.com/pgadmin-org/pgadmin4) ⭐ 3,887 | 🐛 194 | 🌐 Python | 📅 2026-10-16
+* [DBeaver](https://dbeaver.io/) - Free and open-source database management tool. [![Open-Source Software][oss]](https://github.com/dbeaver/dbeaver) ⭐ 52,136 | 🐛 3,359 | 🌐 Java | 📅 2026-10-19
+* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐ 34,813 | 🐛 166 | 🌐 JavaScript | 📅 2026-08-20 - Fast and stable Redis GUI client with cluster, sentinel, SSH support. [![Open-Source Software][oss]](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐ 34,813 | 🐛 166 | 🌐 JavaScript | 📅 2026-08-20
+* [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more. [![Open-Source Software][oss]](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 23,767 | 🐛 1,191 | 🌐 TypeScript | 📅 2026-10-19
+* [pgAdmin](https://www.pgadmin.org/) - Feature-rich, open-source administration and development platform for PostgreSQL. [![Open-Source Software][oss]](https://github.com/pgadmin-org/pgadmin4) ⭐ 3,892 | 🐛 194 | 🌐 Python | 📅 2026-10-16
 * [DataFlare](https://dataflare.app/) - Modern, lightweight database GUI for SQLite, MySQL and PostgreSQL. ![star]
 * [DB Browser for SQLite](https://sqlitebrowser.org/) - Visual tool for creating and editing SQLite database files. ![Open-Source Software](/assets/opensource.svg)
 
 ## Developer Utilities
 
 * [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins.
-* [Git](https://git-scm.com) - Git a distributed version control system that can manage source code reposistories including versioning, syncing, and cloning. [![Open-Source Software][oss]](https://github.com/git/git) ⭐ 63,876 | 🐛 403 | 🌐 C | 📅 2026-10-18
+* [Git](https://git-scm.com) - Git a distributed version control system that can manage source code reposistories including versioning, syncing, and cloning. [![Open-Source Software][oss]](https://github.com/git/git) ⭐ 63,900 | 🐛 406 | 🌐 C | 📅 2026-10-19
 * [Kunobi](https://kunobi.ninja) - Kubernetes management app written in Rust with MCP integration.
 * [Mamp](https://www.mamp.info/en/) - Runs Apache, MySQL and PHP stack locally.
 * [Pieces](https://pieces.app/) - Uses AI to help capture, organize and reuse code snippets and dev resources.
@@ -244,8 +244,8 @@ More information in CLAUDE.md and llms.txt.
 
 ## Email
 
-* [Mailspring](https://getmailspring.com/) - Modern email client built on web technologies. [![Open-Source Software][oss]](https://github.com/Foundry376/Mailspring) ⭐ 17,926 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-16 ![star]
-* [Wino Mail](https://www.winomail.app) - Modern mail client with integrated calendar. [![Open-Source Software][oss]](https://github.com/bkaankose/Wino-Mail) ⭐ 1,618 | 🐛 118 | 🌐 C# | 📅 2026-10-18
+* [Mailspring](https://getmailspring.com/) - Modern email client built on web technologies. [![Open-Source Software][oss]](https://github.com/Foundry376/Mailspring) ⭐ 17,929 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-19 ![star]
+* [Wino Mail](https://www.winomail.app) - Modern mail client with integrated calendar. [![Open-Source Software][oss]](https://github.com/bkaankose/Wino-Mail) ⭐ 1,620 | 🐛 119 | 🌐 C# | 📅 2026-10-19
 * [BlueMail](https://www.bluemail.me/desktop/) - Cross-platform email client with modern interface.
 * [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization and multi-language support.
 * [Nubo Email](https://nubo.email) - Privacy-first email platform with calendar, drive, video meetings, and team chat. Built on JMAP protocol.
@@ -255,11 +255,11 @@ More information in CLAUDE.md and llms.txt.
 
 ## File Management
 
-* [Files](https://files.community/) - A modern file manager that helps users organize their files and folders. [![Open-Source Software][oss]](https://github.com/files-community/Files) ⭐ 46,059 | 🐛 463 | 🌐 C# | 📅 2026-10-15
-* [Spacedrive](https://www.spacedrive.com/) - Cross-platform file manager with cloud integration. [![Open-Source Software][oss]](https://github.com/spacedriveapp/spacedrive) ⭐ 39,216 | 🐛 71 | 🌐 Rust | 📅 2026-10-13
-* [File Converter](https://file-converter.io/) - A simple tool to convert and compress files using the context menu in windows explorer. [![Open-Source Software][oss]](https://github.com/Tichau/FileConverter) ⭐ 15,407 | 🐛 364 | 🌐 C# | 📅 2026-02-27
-* [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation for HTTP, FTP, BitTorrent and HLS/DASH streams. [![Open-Source Software][oss]](https://github.com/zerx-lab/FluxDown) ⭐ 4,706 | 🐛 369 | 🌐 Rust | 📅 2026-10-18
-* [fselect](https://github.com/jhspetersson/fselect) ⭐ 4,470 | 🐛 6 | 🌐 Rust | 📅 2026-10-18 - SQL-like file search utility.
+* [Files](https://files.community/) - A modern file manager that helps users organize their files and folders. [![Open-Source Software][oss]](https://github.com/files-community/Files) ⭐ 46,089 | 🐛 465 | 🌐 C# | 📅 2026-10-18
+* [Spacedrive](https://www.spacedrive.com/) - Cross-platform file manager with cloud integration. [![Open-Source Software][oss]](https://github.com/spacedriveapp/spacedrive) ⭐ 39,234 | 🐛 71 | 🌐 Rust | 📅 2026-10-13
+* [File Converter](https://file-converter.io/) - A simple tool to convert and compress files using the context menu in windows explorer. [![Open-Source Software][oss]](https://github.com/Tichau/FileConverter) ⭐ 15,419 | 🐛 361 | 🌐 C# | 📅 2026-10-19
+* [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation for HTTP, FTP, BitTorrent and HLS/DASH streams. [![Open-Source Software][oss]](https://github.com/zerx-lab/FluxDown) ⭐ 4,780 | 🐛 374 | 🌐 Rust | 📅 2026-10-19
+* [fselect](https://github.com/jhspetersson/fselect) ⭐ 4,471 | 🐛 6 | 🌐 Rust | 📅 2026-10-18 - SQL-like file search utility.
 * [Everything](https://www.voidtools.com/) - Instant file search utility.
 * [File pilot](https://filepilot.tech/) - Next-gen file explorer. Engineered entirely from scratch for light-speed performance, featuring a modern and robust interface.
 * [File Renamer X](https://filerenamerx.com/) - Fast batch file renamer supporting stackable actions, metadata, Exif data, regex, sequential numbering, and more. ![paid]
@@ -273,13 +273,13 @@ More information in CLAUDE.md and llms.txt.
 
 ## Game Stores
 
-* [Godot Engine](https://godotengine.org/) - Free and open source game engine with beginner-friendly workflow. [![Open-Source Software][oss]](https://github.com/godotengine/godot) ⭐ 118,609 | 🐛 18,910 | 🌐 C++ | 📅 2026-10-18
+* [Godot Engine](https://godotengine.org/) - Free and open source game engine with beginner-friendly workflow. [![Open-Source Software][oss]](https://github.com/godotengine/godot) ⭐ 118,696 | 🐛 18,921 | 🌐 C++ | 📅 2026-10-19
 * [Awesome Games](https://github.com/leereilly/games) ⚠️ Archived - List of games hosted on GitHub.
-* [Hydra Launcher](https://hydralauncher.gg/) - A game launcher that allows you to download, play, track your stats and manage your games all in one place. [![Open-Source Software][oss]](https://github.com/hydralauncher/hydra) ⭐ 17,358 | 🐛 142 | 🌐 TypeScript | 📅 2026-10-16
-* [Playnite](https://playnite.link/) - Playnite is an open-source video game library manager that unifies game collections from various platforms. [![Open-Source Software][oss]](https://github.com/JosefNemec/Playnite/) ⭐ 14,243 | 🐛 649 | 🌐 C# | 📅 2026-10-18
-* [Heroic Games Launcher](https://heroicgameslauncher.com/) - A game launcher with support for GOG, Epic Games and Amazon games. [![Open-Source Software][oss]](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) ⭐ 12,451 | 🐛 920 | 🌐 TypeScript | 📅 2026-10-18
-* [Itch.io](https://itch.io/app/) - Platform for discovering and distributing indie games. [![Open-Source Software][oss]](https://github.com/itchio/itch) ⭐ 2,869 | 🐛 350 | 🌐 TypeScript | 📅 2026-10-08
-* [Gale](https://github.com/Kesomannen/gale) ⭐ 827 | 🐛 89 | 🌐 Rust | 📅 2026-10-14 - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](/assets/opensource.svg)
+* [Hydra Launcher](https://hydralauncher.gg/) - A game launcher that allows you to download, play, track your stats and manage your games all in one place. [![Open-Source Software][oss]](https://github.com/hydralauncher/hydra) ⭐ 17,379 | 🐛 142 | 🌐 TypeScript | 📅 2026-10-19
+* [Playnite](https://playnite.link/) - Playnite is an open-source video game library manager that unifies game collections from various platforms. [![Open-Source Software][oss]](https://github.com/JosefNemec/Playnite/) ⭐ 14,271 | 🐛 650 | 🌐 C# | 📅 2026-10-18
+* [Heroic Games Launcher](https://heroicgameslauncher.com/) - A game launcher with support for GOG, Epic Games and Amazon games. [![Open-Source Software][oss]](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) ⭐ 12,473 | 🐛 921 | 🌐 TypeScript | 📅 2026-10-18
+* [Itch.io](https://itch.io/app/) - Platform for discovering and distributing indie games. [![Open-Source Software][oss]](https://github.com/itchio/itch) ⭐ 2,869 | 🐛 351 | 🌐 TypeScript | 📅 2026-10-08
+* [Gale](https://github.com/Kesomannen/gale) ⭐ 830 | 🐛 89 | 🌐 Rust | 📅 2026-10-14 - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](/assets/opensource.svg)
 * [Epic Games](https://www.epicgames.com/store/) - Digital game storefront for PC and Mac.
 * [Freeciv](https://www.freeciv.org/) - Free empire-building strategy game inspired by human civilization. [![Open-Source Software][oss]](https://github.com/freeciv/)
 * [GOG](https://www.gog.com/) - DRM-free game store featuring classic and modern titles.
@@ -290,9 +290,9 @@ More information in CLAUDE.md and llms.txt.
 
 ## Graphics
 
-* [Aseprite](https://www.aseprite.org/) - Professional pixel art and animation tool. [![Open-Source Software][oss]](https://github.com/aseprite/aseprite) ⭐ 40,196 | 🐛 2,024 | 🌐 C++ | 📅 2026-10-14
-* [Ente Photos](https://ente.io/) - Store and share your photos with absolute privacy. [![Open-Source Software][oss]](https://github.com/ente-io/ente) ⭐ 29,446 | 🐛 210 | 🌐 Dart | 📅 2026-10-18
-* [Oculante](https://github.com/woelper/oculante) ⭐ 1,703 | 🐛 186 | 🌐 Rust | 📅 2026-10-17 - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](/assets/opensource.svg) ![star]
+* [Aseprite](https://www.aseprite.org/) - Professional pixel art and animation tool. [![Open-Source Software][oss]](https://github.com/aseprite/aseprite) ⭐ 40,220 | 🐛 2,026 | 🌐 C++ | 📅 2026-10-14
+* [Ente Photos](https://ente.io/) - Store and share your photos with absolute privacy. [![Open-Source Software][oss]](https://github.com/ente-io/ente) ⭐ 29,474 | 🐛 206 | 🌐 Dart | 📅 2026-10-19
+* [Oculante](https://github.com/woelper/oculante) ⭐ 1,703 | 🐛 187 | 🌐 Rust | 📅 2026-10-19 - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](/assets/opensource.svg) ![star]
 * [Affinity](https://www.affinity.studio/photo-editing-software) - Unified creative suite for photo editing, vector design, and desktop publishing
 * [Aspect](https://aspect.bildhuus.com/) - Photo organizer with peer-to-peer synchronization.
 * [Blender](https://www.blender.org/) - Professional 3D creation suite. [![Open-Source Software][oss]](https://developer.blender.org/)
@@ -306,12 +306,12 @@ More information in CLAUDE.md and llms.txt.
 
 ## IDEs
 
-* [Visual Studio Code](https://code.visualstudio.com/) - Customizes development with extensions. [![Open-Source Software][oss]](https://github.com/Microsoft/vscode) ⭐ 193,809 | 🐛 21,876 | 🌐 TypeScript | 📅 2026-10-18
-* [Zed](https://zed.dev) - A high-performance, multiplayer code editor from the creators of Atom. [![Open-Source Software][oss]](https://github.com/zed-industries/zed) ⭐ 91,883 | 🐛 3,078 | 🌐 Rust | 📅 2026-10-17 ![star]
-* [VSCodium](https://vscodium.com/) - A VS Code fork without all the Microsoft bloat and telemetry. [![Open-Source Software][oss]](https://github.com/vscodium/vscodium) ⭐ 33,696 | 🐛 145 | 🌐 Shell | 📅 2026-10-14 ![star]
-* [Spyder](https://www.spyder-ide.org/) - Open-source Python IDE designed for scientific development and data analysis [![Open-Source Software][oss]](https://github.com/spyder-ide/spyder) ⭐ 9,365 | 🐛 1,356 | 🌐 Python | 📅 2026-10-15
-* [Arduino IDE](https://www.arduino.cc/en/software) - An IDE for developing python code for the Arduino. [![Open-Source Software][oss]](https://github.com/arduino/arduino-ide) ⭐ 3,304 | 🐛 637 | 🌐 TypeScript | 📅 2026-10-16
-* [NetBeans IDE](https://netbeans.org/) - Emphasizes modular Java development. [![Open-Source Software][oss]](https://github.com/apache/netbeans) ⭐ 3,144 | 🐛 1,099 | 🌐 Java | 📅 2026-10-16
+* [Visual Studio Code](https://code.visualstudio.com/) - Customizes development with extensions. [![Open-Source Software][oss]](https://github.com/Microsoft/vscode) ⭐ 193,973 | 🐛 21,955 | 🌐 TypeScript | 📅 2026-10-19
+* [Zed](https://zed.dev) - A high-performance, multiplayer code editor from the creators of Atom. [![Open-Source Software][oss]](https://github.com/zed-industries/zed) ⭐ 91,923 | 🐛 3,103 | 🌐 Rust | 📅 2026-10-19 ![star]
+* [VSCodium](https://vscodium.com/) - A VS Code fork without all the Microsoft bloat and telemetry. [![Open-Source Software][oss]](https://github.com/vscodium/vscodium) ⭐ 33,718 | 🐛 145 | 🌐 Shell | 📅 2026-10-14 ![star]
+* [Spyder](https://www.spyder-ide.org/) - Open-source Python IDE designed for scientific development and data analysis [![Open-Source Software][oss]](https://github.com/spyder-ide/spyder) ⭐ 9,371 | 🐛 1,360 | 🌐 Python | 📅 2026-10-15
+* [Arduino IDE](https://www.arduino.cc/en/software) - An IDE for developing python code for the Arduino. [![Open-Source Software][oss]](https://github.com/arduino/arduino-ide) ⭐ 3,312 | 🐛 637 | 🌐 TypeScript | 📅 2026-10-19
+* [NetBeans IDE](https://netbeans.org/) - Emphasizes modular Java development. [![Open-Source Software][oss]](https://github.com/apache/netbeans) ⭐ 3,144 | 🐛 1,100 | 🌐 Java | 📅 2026-10-19
 * [Android Studio](https://developer.android.com/studio/index.html) - Develops and tests Android applications. [![Open-Source Software][oss]](https://sites.google.com/a/android.com/tools/)
 * [Cursor](https://www.cursor.com/) - AI-powered code editor with codebase understanding and natural language editing.
 * [Eclipse](https://eclipse.org/downloads/) - Supports plugin-based development workflows. [![Open-Source Software][oss]](https://git.eclipse.org/c/)
@@ -323,14 +323,14 @@ More information in CLAUDE.md and llms.txt.
 
 ## Local AI
 
-* [Ollama](https://ollama.com/) - Get up and running with large language models locally via command line. [![Open-Source Software][oss]](https://github.com/ollama/ollama) ⭐ 183,709 | 🐛 4,333 | 🌐 Go | 📅 2026-10-18
-* [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software][oss]](https://github.com/janhq/jan) ⭐ 44,995 | 🐛 583 | 🌐 Rust | 📅 2026-10-16
+* [Ollama](https://ollama.com/) - Get up and running with large language models locally via command line. [![Open-Source Software][oss]](https://github.com/ollama/ollama) ⭐ 183,847 | 🐛 4,352 | 🌐 Go | 📅 2026-10-19
+* [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software][oss]](https://github.com/janhq/jan) ⭐ 45,015 | 🐛 550 | 🌐 Rust | 📅 2026-10-19
 * [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs with a user-friendly interface.
 
 ## Networking
 
-* [Sniffnet](https://sniffnet.net/) - Network monitoring tool to help you easily keep track of your Internet traffic. [![Open-Source Software][oss]](https://github.com/GyulyVGC/sniffnet) ⭐ 41,610 | 🐛 65 | 🌐 Rust | 📅 2026-10-18
-* [Nmap](https://nmap.org/) - A free, open-source network scanner used for discovering hosts, services, and vulnerabilities on computer networks through advanced port scanning and OS detection techniques. [![Open-Source Software][oss]](https://github.com/nmap/nmap) ⭐ 13,809 | 🐛 708 | 🌐 C | 📅 2026-10-15
+* [Sniffnet](https://sniffnet.net/) - Network monitoring tool to help you easily keep track of your Internet traffic. [![Open-Source Software][oss]](https://github.com/GyulyVGC/sniffnet) ⭐ 41,635 | 🐛 57 | 🌐 Rust | 📅 2026-10-19
+* [Nmap](https://nmap.org/) - A free, open-source network scanner used for discovering hosts, services, and vulnerabilities on computer networks through advanced port scanning and OS detection techniques. [![Open-Source Software][oss]](https://github.com/nmap/nmap) ⭐ 13,822 | 🐛 708 | 🌐 C | 📅 2026-10-19
 * [MoonProxy](https://moonproxy.app) - An open-source cross-platform FRP desktop GUI client for macOS and Windows. [![Open-Source Software][oss]](https://github.com/MoonProxyHQ/moonproxy-desktop) ⭐ 61 | 🐛 1 | 🌐 Vue | 📅 2026-09-15
 * [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy.
 * [Wireshark](https://www.wireshark.org/) - Network protocol analyzer. [![Open-Source Software][oss]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html)
@@ -341,8 +341,8 @@ More information in CLAUDE.md and llms.txt.
 
 - [Highlight Vault](http://highlightvaultapp.netlify.app) - Free Windows app that imports Kindle/Kobo highlights into a searchable local library, with export and an optional paid Pro upgrade.
 
-* [Joplin](https://joplinapp.org/) - Open-source note-taking app with Markdown support, cross-device sync and encryption. [![Open-Source Software][oss]](https://github.com/laurent22/joplin) ⭐ 56,786 | 🐛 653 | 🌐 TypeScript | 📅 2026-10-18
-* [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. [![Open-Source Software][oss]](https://github.com/logseq/logseq) ⭐ 45,283 | 🐛 1,005 | 🌐 Clojure | 📅 2026-10-18
+* [Joplin](https://joplinapp.org/) - Open-source note-taking app with Markdown support, cross-device sync and encryption. [![Open-Source Software][oss]](https://github.com/laurent22/joplin) ⭐ 56,802 | 🐛 654 | 🌐 TypeScript | 📅 2026-10-19
+* [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. [![Open-Source Software][oss]](https://github.com/logseq/logseq) ⭐ 45,294 | 🐛 991 | 🌐 Clojure | 📅 2026-10-19
 * [Inkdrop](https://www.inkdrop.info/) - Markdown-focused note-taking application.
 * [Notion](https://www.notion.so/) - All-in-one workspace for notes, project management, documents, and collaboration.
 * [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
@@ -351,8 +351,8 @@ More information in CLAUDE.md and llms.txt.
 
 ## Office Suites
 
-* [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Opens documents instantly with minimal memory usage. [![Open-Source Software][oss]](https://github.com/sumatrapdfreader/sumatrapdf) ⭐ 17,788 | 🐛 45 | 🌐 C | 📅 2026-10-18
-* [OnlyOffice](https://www.onlyoffice.com/) - Enables document co-editing with version control. [![Open-Source Software][oss]](https://github.com/ONLYOFFICE/DesktopEditors) ⭐ 5,585 | 🐛 521 | 📅 2026-10-13
+* [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Opens documents instantly with minimal memory usage. [![Open-Source Software][oss]](https://github.com/sumatrapdfreader/sumatrapdf) ⭐ 17,800 | 🐛 40 | 🌐 C | 📅 2026-10-19
+* [OnlyOffice](https://www.onlyoffice.com/) - Enables document co-editing with version control. [![Open-Source Software][oss]](https://github.com/ONLYOFFICE/DesktopEditors) ⭐ 5,598 | 🐛 523 | 📅 2026-10-13
 * [FreeOffice](https://www.freeoffice.com/en/) - Reads and writes Microsoft Office file formats with high compatibility.
 * [LibreOffice](https://www.libreoffice.org/) - Handles complex document formatting and supports extensive file formats. [![Open-Source Software][oss]](https://www.libreoffice.org/about-us/source-code/) ![star]
 * [Microsoft Office](https://www.office.com) - Provides real-time collaboration and cloud integration across apps.
@@ -363,22 +363,22 @@ More information in CLAUDE.md and llms.txt.
 
 ## Password Managers
 
-* [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 69,243 | 🐛 102 | 🌐 Rust | 📅 2026-10-16 - Lightweight Bitwarden server implementation. [![Open-Source Software][oss]](https://github.com/dani-garcia/vaultwarden) ⭐ 69,243 | 🐛 102 | 🌐 Rust | 📅 2026-10-16
-* [KeePassXC](https://keepassxc.org/) = Local open-source KeePass client. [![Open-Source Software][oss]](https://github.com/keepassxreboot/keepassxc) ⭐ 29,290 | 🐛 935 | 🌐 C++ | 📅 2026-10-18
-* [Padloc](https://padloc.app/) - End-to-end encrypted password manager. [![Open-Source Software][oss]](https://github.com/padloc/padloc) ⭐ 2,930 | 🐛 110 | 🌐 JavaScript | 📅 2026-10-18
+* [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 69,306 | 🐛 102 | 🌐 Rust | 📅 2026-10-16 - Lightweight Bitwarden server implementation. [![Open-Source Software][oss]](https://github.com/dani-garcia/vaultwarden) ⭐ 69,306 | 🐛 102 | 🌐 Rust | 📅 2026-10-16
+* [KeePassXC](https://keepassxc.org/) = Local open-source KeePass client. [![Open-Source Software][oss]](https://github.com/keepassxreboot/keepassxc) ⭐ 29,316 | 🐛 933 | 🌐 C++ | 📅 2026-10-18
+* [Padloc](https://padloc.app/) - End-to-end encrypted password manager. [![Open-Source Software][oss]](https://github.com/padloc/padloc) ⭐ 2,930 | 🐛 111 | 🌐 JavaScript | 📅 2026-10-19
 * [1Password](https://1password.com/) - Premium password manager with secure vault and team features. ![paid]
 * [Bitwarden](https://bitwarden.com/) - Open-source password manager with encrypted vault. [![Open-Source Software][oss]](https://github.com/bitwarden)
 * [Proton Pass](https://proton.me/pass) - Zero-knowledge encrypted password manager. ![star]
 
 ## Productivity
 
-* [Super Productivity](https://super-productivity.com/) - Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration. [![Open-Source Software][oss]](https://github.com/johannesjo/super-productivity) ⭐ 22,917 | 🐛 1,446 | 🌐 TypeScript | 📅 2026-10-18
-* [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz) ⭐ 9,715 | 🐛 74 | 🌐 TypeScript | 📅 2026-04-01
-* [STranslate](https://github.com/ZGGSONG/STranslate) ⭐ 8,281 | 🐛 44 | 🌐 C# | 📅 2026-09-24 - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](/assets/opensource.svg)
+* [Super Productivity](https://super-productivity.com/) - Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration. [![Open-Source Software][oss]](https://github.com/johannesjo/super-productivity) ⭐ 22,964 | 🐛 1,438 | 🌐 TypeScript | 📅 2026-10-19
+* [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz) ⭐ 9,714 | 🐛 74 | 🌐 TypeScript | 📅 2026-04-01
+* [STranslate](https://github.com/ZGGSONG/STranslate) ⭐ 8,285 | 🐛 44 | 🌐 C# | 📅 2026-09-24 - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](/assets/opensource.svg)
 * [Saga Reader](https://github.com/sopaco/saga-reader) ⭐ 532 | 🐛 4 | 🌐 Rust | 📅 2026-07-11 - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
-* [OpenHabitTracker](https://openhabittracker.net) - Take notes, plan tasks, and track habits. [![Open-Source Software][oss]](https://github.com/Jinjinov/OpenHabitTracker) ⭐ 301 | 🐛 4 | 🌐 C# | 📅 2026-09-29
-* [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software][oss]](https://github.com/TypeWhisper/typewhisper-win) ⭐ 231 | 🐛 21 | 🌐 C# | 📅 2026-10-18
-* [Beetroot](https://max.nardit.com/beetroot) - Manages clipboard history with AI text transforms and OCR extraction. [![Open-Source Software][oss]](https://github.com/mnardit/beetroot-releases) ⭐ 227 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-09
+* [OpenHabitTracker](https://openhabittracker.net) - Take notes, plan tasks, and track habits. [![Open-Source Software][oss]](https://github.com/Jinjinov/OpenHabitTracker) ⭐ 302 | 🐛 4 | 🌐 C# | 📅 2026-09-29
+* [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software][oss]](https://github.com/TypeWhisper/typewhisper-win) ⭐ 231 | 🐛 13 | 🌐 C# | 📅 2026-10-19
+* [Beetroot](https://max.nardit.com/beetroot) - Manages clipboard history with AI text transforms and OCR extraction. [![Open-Source Software][oss]](https://github.com/mnardit/beetroot-releases) ⭐ 228 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-09
 * [Kaas](https://github.com/0xfrankz/Kaas) ⭐ 214 | 🐛 5 | 🌐 TypeScript | 📅 2025-04-03 - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](/assets/opensource.svg)
 * [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList) ⭐ 56 | 🐛 1 | 🌐 XSLT | 📅 2026-09-16
 * [EyeRest](https://github.com/necdetsanli/EyeRest) ⭐ 32 | 🐛 0 | 🌐 C# | 📅 2025-12-16 - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
@@ -400,7 +400,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## Proxy and VPN Tools
 
-* [Algo](https://github.com/trailofbits/algo) ⭐ 30,425 | 🐛 84 | 🌐 Python | 📅 2026-10-14 - Personal IPSEC VPN in the cloud.
+* [Algo](https://github.com/trailofbits/algo) ⭐ 30,429 | 🐛 84 | 🌐 Python | 📅 2026-10-14 - Personal IPSEC VPN in the cloud.
 * [Cloudflare WARP](https://1.1.1.1) - Fast, free VPN and DNS.
 * [Mullvad VPN](https://mullvad.net) - No-logs Sweden VPN service.
 * [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![star]
@@ -411,9 +411,9 @@ More information in CLAUDE.md and llms.txt.
 
 ## Remote Access
 
-* [RustDesk](https://rustdesk.com/) - Open-source remote desktop software with a focus on simplicity and security. [![Open-Source Software][oss]](https://github.com/rustdesk/rustdesk) ⭐ 126,213 | 🐛 194 | 🌐 Rust | 📅 2026-10-16
-* [Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 42,338 | 🐛 162 | 🌐 C++ | 📅 2026-10-18 - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software][oss]](https://github.com/LizardByte/Sunshine) ⭐ 42,338 | 🐛 162 | 🌐 C++ | 📅 2026-10-18 ![star]
-* [Moonlight](https://github.com/moonlight-stream/moonlight-qt) ⭐ 19,135 | 🐛 566 | 🌐 C++ | 📅 2026-10-17 - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. [![Open-Source Software][oss]](https://github.com/moonlight-stream/moonlight-qt) ⭐ 19,135 | 🐛 566 | 🌐 C++ | 📅 2026-10-17 ![star]
+* [RustDesk](https://rustdesk.com/) - Open-source remote desktop software with a focus on simplicity and security. [![Open-Source Software][oss]](https://github.com/rustdesk/rustdesk) ⭐ 126,332 | 🐛 199 | 🌐 Rust | 📅 2026-10-16
+* [Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 42,394 | 🐛 166 | 🌐 C++ | 📅 2026-10-19 - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software][oss]](https://github.com/LizardByte/Sunshine) ⭐ 42,394 | 🐛 166 | 🌐 C++ | 📅 2026-10-19 ![star]
+* [Moonlight](https://github.com/moonlight-stream/moonlight-qt) ⭐ 19,155 | 🐛 569 | 🌐 C++ | 📅 2026-10-19 - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. [![Open-Source Software][oss]](https://github.com/moonlight-stream/moonlight-qt) ⭐ 19,155 | 🐛 569 | 🌐 C++ | 📅 2026-10-19 ![star]
 * [AnyDesk](https://anydesk.com/) - Free and lightweight remote access solution for ease of use.
 * [Parsec](https://parsec.app/) - High-performance remote desktop solution with 4k streaming at 60fps and low latency. ![star]
 * [RealVNC](https://www.realvnc.com) - Secure remote access for desktop and mobile devices.
@@ -424,7 +424,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## Screen Capture
 
-* [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss]](https://github.com/obsproject/obs-studio) ⭐ 77,730 | 🐛 1,158 | 🌐 C | 📅 2026-10-16 ![star]
+* [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss]](https://github.com/obsproject/obs-studio) ⭐ 77,785 | 🐛 1,163 | 🌐 C | 📅 2026-10-16 ![star]
 * [YAKC](https://github.com/iammodev/YAKC) ⭐ 115 | 🐛 7 | 🌐 Rust | 📅 2026-09-29 - Keystroke and mouse-click visualizer for screencasts, streaming and presentations. [![Open-Source Software][oss]](https://github.com/iammodev/YAKC) ⭐ 115 | 🐛 7 | 🌐 Rust | 📅 2026-09-29
 * [Fraps](https://www.fraps.com/) - DirectX/OpenGL game recording utility.
 * [LICEcap](https://www.cockos.com/licecap/) - Animated GIF screen capture tool.
@@ -433,20 +433,20 @@ More information in CLAUDE.md and llms.txt.
 
 ## Screenshot
 
-* [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. [![Open-Source Software][oss]](https://github.com/ShareX/ShareX) ⭐ 40,167 | 🐛 620 | 🌐 C# | 📅 2026-10-18 ![star]
-* [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software][oss]](https://github.com/flameshot-org/flameshot) ⭐ 31,232 | 🐛 743 | 🌐 C++ | 📅 2026-10-16
-* [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software][oss]](https://github.com/greenshot/greenshot) ⭐ 5,197 | 🐛 546 | 🌐 C# | 📅 2026-10-18
+* [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. [![Open-Source Software][oss]](https://github.com/ShareX/ShareX) ⭐ 40,215 | 🐛 620 | 🌐 C# | 📅 2026-10-19 ![star]
+* [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software][oss]](https://github.com/flameshot-org/flameshot) ⭐ 31,247 | 🐛 744 | 🌐 C++ | 📅 2026-10-16
+* [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software][oss]](https://github.com/greenshot/greenshot) ⭐ 5,197 | 🐛 531 | 🌐 C# | 📅 2026-10-19
 * [Capter](https://github.com/decipher3114/Capter) ⭐ 237 | 🐛 5 | 🌐 Rust | 📅 2026-08-09 - A simple screenshot tool made in rust. ![oss]
 * [iScribby](https://iscribby.com/) - A neat little tool that allows you to draw and copy things directly on your screen from anywhere, without interrupting your workflow.
 * [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
 
 ## Security
 
-* [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software][oss]](https://github.com/ente-io/ente) ⭐ 29,446 | 🐛 210 | 🌐 Dart | 📅 2026-10-18
-* [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud files. [![Open-Source Software][oss]](https://github.com/cryptomator/cryptomator) ⭐ 16,326 | 🐛 281 | 🌐 Java | 📅 2026-10-16
-* [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Disk encryption software for multiple platforms. [![Open-Source Software][oss]](https://github.com/veracrypt/VeraCrypt) ⭐ 11,865 | 🐛 490 | 🌐 C | 📅 2026-10-18
-* [cppcryptfs](https://github.com/bailey27/cppcryptfs) ⭐ 972 | 🐛 68 | 🌐 C++ | 📅 2026-10-18 - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
-* [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) ⭐ 931 | 🐛 0 | 🌐 Java | 📅 2026-09-28 - A CLI tool to extract server certificates from a URL. [![Open-Source Software][oss]](https://github.com/Hakky54/certificate-ripper) ⭐ 931 | 🐛 0 | 🌐 Java | 📅 2026-09-28
+* [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software][oss]](https://github.com/ente-io/ente) ⭐ 29,474 | 🐛 206 | 🌐 Dart | 📅 2026-10-19
+* [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud files. [![Open-Source Software][oss]](https://github.com/cryptomator/cryptomator) ⭐ 16,331 | 🐛 281 | 🌐 Java | 📅 2026-10-16
+* [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Disk encryption software for multiple platforms. [![Open-Source Software][oss]](https://github.com/veracrypt/VeraCrypt) ⭐ 11,875 | 🐛 490 | 🌐 C | 📅 2026-10-19
+* [cppcryptfs](https://github.com/bailey27/cppcryptfs) ⭐ 973 | 🐛 66 | 🌐 C++ | 📅 2026-10-19 - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
+* [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) ⭐ 937 | 🐛 0 | 🌐 Java | 📅 2026-09-28 - A CLI tool to extract server certificates from a URL. [![Open-Source Software][oss]](https://github.com/Hakky54/certificate-ripper) ⭐ 937 | 🐛 0 | 🌐 Java | 📅 2026-09-28
 * [capyknock](https://plinioseniore.github.io/capyknock/) - Single Packet Authorization in fwknop style [![Open-Source Software][oss]](https://github.com/plinioseniore/capyknock) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-04
 * [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Removal tool for adware, PUP/LPI, toolbars and hijackers.
 * [Bitdefender](https://www.bitdefender.com/) - Comprehensive malware protection suite.
@@ -462,21 +462,21 @@ More information in CLAUDE.md and llms.txt.
 
 ## System Utilities
 
-* [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 152,429 | 🐛 2,937 | 🌐 C | 📅 2026-10-17 - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](/assets/opensource.svg)
-* [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - Microsoft's power user toolkit. [![Open-Source Software][oss]](https://github.com/microsoft/PowerToys) ⭐ 139,452 | 🐛 7,771 | 🌐 C | 📅 2026-10-18
-* [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software][oss]](https://github.com/localsend/localsend) ⭐ 94,780 | 🐛 1,016 | 🌐 Dart | 📅 2026-10-17
-* [SyncThing](https://syncthing.net/) - Peer-to-peer file synchronization tool. [![Open-Source Software][oss]](https://github.com/syncthing/syncthing) ⭐ 89,488 | 🐛 388 | 🌐 Go | 📅 2026-10-18
-* [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client. [![Open-Source Software][oss]](https://github.com/qbittorrent/qBittorrent) ⭐ 40,894 | 🐛 2,730 | 🌐 C++ | 📅 2026-10-18
-* [Rufus](https://rufus.ie/) - Bootable USB creation utility. [![Open-Source Software][oss]](https://github.com/pbatard/rufus) ⭐ 38,018 | 🐛 8 | 🌐 C | 📅 2026-10-15
-* [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software][oss]](https://github.com/balena-io/etcher) ⭐ 34,547 | 🐛 700 | 🌐 TypeScript | 📅 2026-10-14
-* [neohtop](https://github.com/Abdenasser/neohtop) ⭐ 9,397 | 🐛 21 | 🌐 Svelte | 📅 2026-03-30 - Modern system monitor built with Svelte and Rust. ![Open-Source Software](/assets/opensource.svg) ![star]
-* [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. [![Open-Source Software][oss]](https://github.com/xanderfrangos/twinkle-tray) ⭐ 9,203 | 🐛 626 | 🌐 JavaScript | 📅 2026-10-12
-* [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space. [![Open-Source Software][oss]](https://github.com/bleachbit/bleachbit) ⭐ 7,149 | 🐛 337 | 🌐 Python | 📅 2026-10-18
-* [HTTrack](https://www.httrack.com/) - Offline website browser and mirror utility. [![Open-Source Software][oss]](https://github.com/xroche/httrack/tree/master) ⭐ 4,789 | 🐛 2 | 🌐 C | 📅 2026-10-18
-* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Open-source utility for monitoring S.M.A.R.T. data, disk temperature and more. [![Open-Source Software][oss]](https://github.com/hiyohiyo/CrystalDiskInfo) ⭐ 3,414 | 🐛 131 | 🌐 C++ | 📅 2026-10-11
-* [LightBulb](https://github.com/Tyrrrz/LightBulb) ⭐ 2,805 | 🐛 11 | 🌐 C# | 📅 2026-10-18 - Adaptive screen brightness utility.
-* [Servy](https://github.com/aelassas/servy) ⭐ 2,062 | 🐛 3 | 🌐 C# | 📅 2026-10-17 - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
-* [Process Hacker](https://processhacker.sourceforge.net/) - Comprehensive system monitoring and management tool. [![Open-Source Software][oss]](https://github.com/PKRoma/ProcessHacker) ⭐ 1,202 | 🐛 9 | 🌐 C | 📅 2026-09-10
+* [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 152,555 | 🐛 2,933 | 🌐 C | 📅 2026-10-17 - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](/assets/opensource.svg)
+* [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - Microsoft's power user toolkit. [![Open-Source Software][oss]](https://github.com/microsoft/PowerToys) ⭐ 139,485 | 🐛 7,777 | 🌐 C | 📅 2026-10-19
+* [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software][oss]](https://github.com/localsend/localsend) ⭐ 94,940 | 🐛 1,020 | 🌐 Dart | 📅 2026-10-17
+* [SyncThing](https://syncthing.net/) - Peer-to-peer file synchronization tool. [![Open-Source Software][oss]](https://github.com/syncthing/syncthing) ⭐ 89,536 | 🐛 389 | 🌐 Go | 📅 2026-10-19
+* [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client. [![Open-Source Software][oss]](https://github.com/qbittorrent/qBittorrent) ⭐ 40,918 | 🐛 2,711 | 🌐 C++ | 📅 2026-10-19
+* [Rufus](https://rufus.ie/) - Bootable USB creation utility. [![Open-Source Software][oss]](https://github.com/pbatard/rufus) ⭐ 38,034 | 🐛 9 | 🌐 C | 📅 2026-10-15
+* [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software][oss]](https://github.com/balena-io/etcher) ⭐ 34,555 | 🐛 699 | 🌐 TypeScript | 📅 2026-10-19
+* [neohtop](https://github.com/Abdenasser/neohtop) ⭐ 9,399 | 🐛 21 | 🌐 Svelte | 📅 2026-03-30 - Modern system monitor built with Svelte and Rust. ![Open-Source Software](/assets/opensource.svg) ![star]
+* [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. [![Open-Source Software][oss]](https://github.com/xanderfrangos/twinkle-tray) ⭐ 9,211 | 🐛 623 | 🌐 JavaScript | 📅 2026-10-19
+* [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space. [![Open-Source Software][oss]](https://github.com/bleachbit/bleachbit) ⭐ 7,166 | 🐛 338 | 🌐 Python | 📅 2026-10-19
+* [HTTrack](https://www.httrack.com/) - Offline website browser and mirror utility. [![Open-Source Software][oss]](https://github.com/xroche/httrack/tree/master) ⭐ 4,794 | 🐛 0 | 🌐 C | 📅 2026-10-19
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Open-source utility for monitoring S.M.A.R.T. data, disk temperature and more. [![Open-Source Software][oss]](https://github.com/hiyohiyo/CrystalDiskInfo) ⭐ 3,420 | 🐛 127 | 🌐 C++ | 📅 2026-10-19
+* [LightBulb](https://github.com/Tyrrrz/LightBulb) ⭐ 2,806 | 🐛 11 | 🌐 C# | 📅 2026-10-18 - Adaptive screen brightness utility.
+* [Servy](https://github.com/aelassas/servy) ⭐ 2,064 | 🐛 3 | 🌐 C# | 📅 2026-10-17 - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
+* [Process Hacker](https://processhacker.sourceforge.net/) - Comprehensive system monitoring and management tool. [![Open-Source Software][oss]](https://github.com/PKRoma/ProcessHacker) ⭐ 1,203 | 🐛 9 | 🌐 C | 📅 2026-09-10
 * [CrunchyCleaner](https://github.com/Knuspii/CrunchyCleaner) ⭐ 155 | 🐛 1 | 🌐 Go | 📅 2026-10-16 - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software][oss]](https://github.com/Knuspii/CrunchyCleaner) ⭐ 155 | 🐛 1 | 🌐 Go | 📅 2026-10-16
 * [GPU Shark](https://github.com/k1gs/Gpu-Shark) ⭐ 31 | 🐛 0 | 🌐 Rust | 📅 2026-09-20 - GPU Shark - Lightweight native NVIDIA GPU telemetry monitor for Windows.
 * [HardwareExporterWindows](https://github.com/naughtyGitCat/HardwareExporterWindows) ⭐ 9 | 🐛 2 | 🌐 C | 📅 2026-05-22 - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software][oss]](https://github.com/naughtyGitCat/HardwareExporterWindows) ⭐ 9 | 🐛 2 | 🌐 C | 📅 2026-05-22
@@ -499,13 +499,13 @@ More information in CLAUDE.md and llms.txt.
 
 ## Terminal
 
-* [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Official Microsoft terminal. [![Open-Source Software][oss]](https://github.com/microsoft/terminal) ⭐ 105,180 | 🐛 1,786 | 🌐 C++ | 📅 2026-10-16
-* [Tabby](https://tabby.sh/) - Configurable terminal built on web technologies. [![Open-Source Software][oss]](https://github.com/Eugeny/tabby) ⭐ 75,014 | 🐛 2,841 | 🌐 TypeScript | 📅 2026-10-16
-* [Alacritty](https://github.com/jwilm/alacritty) ⭐ 65,988 | 🐛 342 | 🌐 Rust | 📅 2026-10-16 - Cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](/assets/opensource.svg)
-* [WezTerm](https://wezfurlong.org/wezterm/) - GPU-accelerated terminal emulator and multiplexer. [![Open-Source Software][oss]](https://github.com/wez/wezterm) ⭐ 29,267 | 🐛 1,926 | 🌐 Rust | 📅 2026-10-12
-* [Cmder](https://cmder.app) - Console emulator with clink shell integration. [![Open-Source Software][oss]](https://github.com/cmderdev/cmder) ⭐ 27,004 | 🐛 74 | 🌐 PowerShell | 📅 2026-10-13
+* [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Official Microsoft terminal. [![Open-Source Software][oss]](https://github.com/microsoft/terminal) ⭐ 105,187 | 🐛 1,781 | 🌐 C++ | 📅 2026-10-19
+* [Tabby](https://tabby.sh/) - Configurable terminal built on web technologies. [![Open-Source Software][oss]](https://github.com/Eugeny/tabby) ⭐ 75,030 | 🐛 2,842 | 🌐 TypeScript | 📅 2026-10-19
+* [Alacritty](https://github.com/jwilm/alacritty) ⭐ 66,001 | 🐛 342 | 🌐 Rust | 📅 2026-10-16 - Cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](/assets/opensource.svg)
+* [WezTerm](https://wezfurlong.org/wezterm/) - GPU-accelerated terminal emulator and multiplexer. [![Open-Source Software][oss]](https://github.com/wez/wezterm) ⭐ 29,279 | 🐛 1,928 | 🌐 Rust | 📅 2026-10-19
+* [Cmder](https://cmder.app) - Console emulator with clink shell integration. [![Open-Source Software][oss]](https://github.com/cmderdev/cmder) ⭐ 27,005 | 🐛 74 | 🌐 PowerShell | 📅 2026-10-19
 * [FluentTerminal](https://github.com/felixse/FluentTerminal) ⭐ 9,602 | 🐛 241 | 🌐 C# | 📅 2026-10-10 - UWP-based modern terminal emulator.
-* [ConEmu](https://github.com/Maximus5/ConEmu) ⭐ 9,272 | 🐛 1,067 | 🌐 C++ | 📅 2025-04-07 - Customizable terminal with tabs, splits, and quake-style dropdown.
+* [ConEmu](https://github.com/Maximus5/ConEmu) ⭐ 9,273 | 🐛 1,067 | 🌐 C++ | 📅 2025-04-07 - Customizable terminal with tabs, splits, and quake-style dropdown.
 * [Kitty](https://www.9bis.net/kitty/) - Enhanced PuTTY with additional features.
 * [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
@@ -514,11 +514,11 @@ More information in CLAUDE.md and llms.txt.
 
 ## Text Editors
 
-* [Neovim](https://neovim.io/) - Modern, extensible terminal-based editor. [![Open-Source Software][oss]](https://github.com/neovim/neovim) ⭐ 103,044 | 🐛 1,982 | 🌐 Vim Script | 📅 2026-10-18
-* [Notepad++](https://notepad-plus-plus.org/) - Feature-rich source code editor. [![Open-Source Software][oss]](https://github.com/notepad-plus-plus/notepad-plus-plus) ⭐ 29,594 | 🐛 2,925 | 🌐 C++ | 📅 2026-10-17
-* [LazyVim](https://www.lazyvim.org/) - Customizable Neovim configuration framework. [![Open-Source Software][oss]](https://github.com/LazyVim/LazyVim) ⭐ 27,689 | 🐛 85 | 🌐 Lua | 📅 2026-09-08
-* [GVim](https://www.vim.org/download.php#pc) - Highly configurable text editor optimized for efficiency. [![Open-Source Software][oss]](https://github.com/vim/vim-win32-installer/releases/tag/v9.1.0679) ⭐ 2,296 | 🐛 8 | 🌐 NSIS | 📅 2026-10-16
-* [Markra](https://markra.app/) - Local-first WYSIWYG Markdown editor with native AI review. [![Open-Source Software][oss]](https://github.com/murongg/markra) ⭐ 923 | 🐛 40 | 🌐 TypeScript | 📅 2026-10-16
+* [Neovim](https://neovim.io/) - Modern, extensible terminal-based editor. [![Open-Source Software][oss]](https://github.com/neovim/neovim) ⭐ 103,065 | 🐛 1,978 | 🌐 Vim Script | 📅 2026-10-19
+* [Notepad++](https://notepad-plus-plus.org/) - Feature-rich source code editor. [![Open-Source Software][oss]](https://github.com/notepad-plus-plus/notepad-plus-plus) ⭐ 29,616 | 🐛 2,927 | 🌐 C++ | 📅 2026-10-19
+* [LazyVim](https://www.lazyvim.org/) - Customizable Neovim configuration framework. [![Open-Source Software][oss]](https://github.com/LazyVim/LazyVim) ⭐ 27,693 | 🐛 86 | 🌐 Lua | 📅 2026-09-08
+* [GVim](https://www.vim.org/download.php#pc) - Highly configurable text editor optimized for efficiency. [![Open-Source Software][oss]](https://github.com/vim/vim-win32-installer/releases/tag/v9.1.0679) ⭐ 2,297 | 🐛 8 | 🌐 NSIS | 📅 2026-10-16
+* [Markra](https://markra.app/) - Local-first WYSIWYG Markdown editor with native AI review. [![Open-Source Software][oss]](https://github.com/murongg/markra) ⭐ 926 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-19
 * [Inkwell](https://github.com/4worlds4w-svg/inkwell) ⭐ 257 | 🐛 10 | 📅 2026-06-12 - Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.
 * [MDLook](https://mdlook.com) - Portable offline Markdown editor using WebView2 instead of Electron.
 * [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Lightweight Notepad replacement with enhanced features. ![Open-Source Software](/assets/opensource.svg)
@@ -527,10 +527,10 @@ More information in CLAUDE.md and llms.txt.
 
 ## Version Control
 
-* [GitHub Desktop](https://desktop.github.com/) - Electron-based GitHub client. [![Open-Source Software][oss]](https://github.com/desktop/desktop) ⭐ 21,976 | 🐛 1,077 | 🌐 TypeScript | 📅 2026-10-16
+* [GitHub Desktop](https://desktop.github.com/) - Electron-based GitHub client. [![Open-Source Software][oss]](https://github.com/desktop/desktop) ⭐ 21,981 | 🐛 1,077 | 🌐 TypeScript | 📅 2026-10-19
 * [DevHub](https://devhubapp.com/) - GitHub notifications on your desktop as a tray app. [![Open-Source Software][oss]](https://github.com/devhubapp/devhub) ⭐ 10,137 | 🐛 105 | 🌐 TypeScript | 📅 2024-09-07
-* [WinMerge](https://winmerge.org/) - Visual diff and merge tool for files and folders. [![Open-Source Software][oss]](https://github.com/WinMerge/winmerge) ⭐ 9,286 | 🐛 499 | 🌐 C++ | 📅 2026-10-18
-* [Git Extensions](https://gitextensions.github.io/) - Powerful and user-friendly Git UI. [![Open-Source Software][oss]](https://github.com/gitextensions/gitextensions) ⭐ 8,594 | 🐛 579 | 🌐 C# | 📅 2026-10-13
+* [WinMerge](https://winmerge.org/) - Visual diff and merge tool for files and folders. [![Open-Source Software][oss]](https://github.com/WinMerge/winmerge) ⭐ 9,288 | 🐛 493 | 🌐 C++ | 📅 2026-10-19
+* [Git Extensions](https://gitextensions.github.io/) - Powerful and user-friendly Git UI. [![Open-Source Software][oss]](https://github.com/gitextensions/gitextensions) ⭐ 8,597 | 🐛 579 | 🌐 C# | 📅 2026-10-13
 * [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss]](https://github.com/tortoisegit/tortoisegit/) ⭐ 1,700 | 🐛 18 | 🌐 C++ | 📅 2026-09-27
 * [GitLight](https://github.com/colinlienard/gitlight) ⭐ 926 | 🐛 14 | 🌐 Svelte | 📅 2024-12-26 - Open-source GitHub & GitLab notifications client. ![Open-Source Software](/assets/opensource.svg)
 * [Fork](https://git-fork.com/) - Fast and friendly Git client for Windows and Mac.
@@ -541,13 +541,13 @@ More information in CLAUDE.md and llms.txt.
 
 ## Video Utilities
 
-* [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software][oss]](https://github.com/mpv-player/mpv) ⭐ 37,448 | 🐛 1,157 | 🌐 C | 📅 2026-10-18 ![star]
-* [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software][oss]](https://github.com/NickeManarin/ScreenToGif/) ⭐ 27,810 | 🐛 338 | 🌐 C# | 📅 2026-10-14
-* [HandBrake](https://handbrake.fr/) - Converts videos between formats with compression options. [![Open-Source Software][oss]](https://github.com/HandBrake/HandBrake) ⭐ 24,709 | 🐛 293 | 🌐 C | 📅 2026-10-18
-* [VLC](https://www.videolan.org/vlc/index.html) - Plays damaged/incomplete media files and network streams. [![Open-Source Software][oss]](https://github.com/videolan/vlc) ⭐ 20,117 | 🐛 2 | 🌐 C | 📅 2026-10-18
-* [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software][oss]](https://github.com/mltframework/shotcut) ⭐ 15,446 | 🐛 50 | 🌐 C++ | 📅 2026-10-18
-* [Olive Video Editor](https://www.olivevideoeditor.org/) - Node-based video editor with real-time effects. [![Open-Source Software][oss]](https://github.com/olive-editor/olive) ⭐ 9,137 | 🐛 161 | 🌐 C++ | 📅 2024-12-05
-* [Screenbox](https://github.com/huynhsontung/Screenbox) ⭐ 4,549 | 🐛 246 | 🌐 C# | 📅 2026-10-18 - Windows-optimized media player based on LibVLC. [![Open-Source Software][oss]](https://github.com/huynhsontung/Screenbox) ⭐ 4,549 | 🐛 246 | 🌐 C# | 📅 2026-10-18
+* [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software][oss]](https://github.com/mpv-player/mpv) ⭐ 37,467 | 🐛 1,161 | 🌐 C | 📅 2026-10-18 ![star]
+* [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software][oss]](https://github.com/NickeManarin/ScreenToGif/) ⭐ 27,818 | 🐛 338 | 🌐 C# | 📅 2026-10-14
+* [HandBrake](https://handbrake.fr/) - Converts videos between formats with compression options. [![Open-Source Software][oss]](https://github.com/HandBrake/HandBrake) ⭐ 24,717 | 🐛 291 | 🌐 C | 📅 2026-10-19
+* [VLC](https://www.videolan.org/vlc/index.html) - Plays damaged/incomplete media files and network streams. [![Open-Source Software][oss]](https://github.com/videolan/vlc) ⭐ 20,137 | 🐛 2 | 🌐 C | 📅 2026-10-18
+* [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software][oss]](https://github.com/mltframework/shotcut) ⭐ 15,451 | 🐛 50 | 🌐 C++ | 📅 2026-10-18
+* [Olive Video Editor](https://www.olivevideoeditor.org/) - Node-based video editor with real-time effects. [![Open-Source Software][oss]](https://github.com/olive-editor/olive) ⭐ 9,139 | 🐛 161 | 🌐 C++ | 📅 2024-12-05
+* [Screenbox](https://github.com/huynhsontung/Screenbox) ⭐ 4,554 | 🐛 244 | 🌐 C# | 📅 2026-10-19 - Windows-optimized media player based on LibVLC. [![Open-Source Software][oss]](https://github.com/huynhsontung/Screenbox) ⭐ 4,554 | 🐛 244 | 🌐 C# | 📅 2026-10-19
 * [FrameShift](https://gaurox.dev/frameshift/) - Windows media utility for right-click workflows: convert, compress, crop, cut and edit video, audio and images with local AI features including background removal, image upscaling, audio stem separation (Demucs), denoising (DeepFilterNet) and RIFE interpolation. [![Open-Source Software][oss]](https://github.com/gaurox/FrameShift) ⭐ 97 | 🐛 1 | 🌐 C# | 📅 2026-10-06
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Complete video production suite with color grading, VFX, and audio tools. ![star]
 * [Kdenlive](https://kdenlive.org/en/download/) - Video editor focused on transitions and effects. [![Open-Source Software][oss]](https://invent.kde.org/multimedia/kdenlive)
@@ -556,8 +556,8 @@ More information in CLAUDE.md and llms.txt.
 
 ## Virtualization
 
-* [Vagrant](https://www.vagrantup.com/) - Tool for building and managing virtual machines. [![Open-Source Software][oss]](https://github.com/mitchellh/vagrant) ⭐ 27,220 | 🐛 759 | 🌐 Ruby | 📅 2026-10-12
-* [Podman Desktop](https://podman.io/) - Open source desktop containerization alternative to Docker. [![Open-Source Software][oss]](https://github.com/containers/podman-desktop) ⭐ 8,087 | 🐛 917 | 🌐 TypeScript | 📅 2026-10-16
+* [Vagrant](https://www.vagrantup.com/) - Tool for building and managing virtual machines. [![Open-Source Software][oss]](https://github.com/mitchellh/vagrant) ⭐ 27,220 | 🐛 759 | 🌐 Ruby | 📅 2026-10-19
+* [Podman Desktop](https://podman.io/) - Open source desktop containerization alternative to Docker. [![Open-Source Software][oss]](https://github.com/containers/podman-desktop) ⭐ 8,090 | 🐛 917 | 🌐 TypeScript | 📅 2026-10-19
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Containerization for Desktop, built on top of WSL2.
 * [QEMU](https://www.qemu.org/) - Open-source emulator and virtualizer for hardware and system virtualization.
 * [Rancher Desktop](https://rancherdesktop.io) - Open-source application for managing containers and Kubernetes on the desktop.
@@ -566,11 +566,11 @@ More information in CLAUDE.md and llms.txt.
 
 ## Window Management
 
-* [FancyZones](https://github.com/microsoft/PowerToys) ⭐ 139,452 | 🐛 7,771 | 🌐 C | 📅 2026-10-18 - PowerToys window manager for multi-monitor setups. ![oss]
-* [Komorebi](https://lgug2z.github.io/komorebi/) - Tiles windows dynamically. [![Open-Source Software][oss]](https://github.com/LGUG2Z/komorebi) ⭐ 15,291 | 🐛 114 | 🌐 Rust | 📅 2026-10-18
-* [GlazeWM](https://github.com/glzr-io/glazewm) ⭐ 12,901 | 🐛 423 | 🌐 Rust | 📅 2026-06-20 - Rust-based tiling window manager. ![oss]
-* [AltSnap](https://github.com/RamonUnch/AltSnap) ⭐ 5,308 | 🐛 133 | 🌐 C | 📅 2026-10-18 - Window snapping with keyboard shortcuts. ![oss]
-* [WinGlide](https://github.com/congchuahiep/WinGlide) ⭐ 12 | 🐛 4 | 🌐 Rust | 📅 2026-09-29 - Navigate windows by taskbar position (not Z-order like <kbd>Alt</kbd>+<kbd>Tab</kbd>) and jump between virtual desktops with keyboard shortcuts. [![Open-Source Software][oss]](https://github.com/congchuahiep/WinGlide) ⭐ 12 | 🐛 4 | 🌐 Rust | 📅 2026-09-29
+* [FancyZones](https://github.com/microsoft/PowerToys) ⭐ 139,485 | 🐛 7,777 | 🌐 C | 📅 2026-10-19 - PowerToys window manager for multi-monitor setups. ![oss]
+* [Komorebi](https://lgug2z.github.io/komorebi/) - Tiles windows dynamically. [![Open-Source Software][oss]](https://github.com/LGUG2Z/komorebi) ⭐ 15,295 | 🐛 114 | 🌐 Rust | 📅 2026-10-18
+* [GlazeWM](https://github.com/glzr-io/glazewm) ⭐ 12,907 | 🐛 423 | 🌐 Rust | 📅 2026-06-20 - Rust-based tiling window manager. ![oss]
+* [AltSnap](https://github.com/RamonUnch/AltSnap) ⭐ 5,314 | 🐛 133 | 🌐 C | 📅 2026-10-18 - Window snapping with keyboard shortcuts. ![oss]
+* [WinGlide](https://github.com/congchuahiep/WinGlide) ⭐ 12 | 🐛 5 | 🌐 Rust | 📅 2026-10-19 - Navigate windows by taskbar position (not Z-order like <kbd>Alt</kbd>+<kbd>Tab</kbd>) and jump between virtual desktops with keyboard shortcuts. [![Open-Source Software][oss]](https://github.com/congchuahiep/WinGlide) ⭐ 12 | 🐛 5 | 🌐 Rust | 📅 2026-10-19
 
 ## Backers
 
@@ -590,4 +590,4 @@ Please, consider supporting me as it is a lot of work to maintain this list! Tha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
